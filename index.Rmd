@@ -2,7 +2,17 @@
 title: "Gerhard's Website"
 description: |
   Welcome to the website. I hope you enjoy it!
+navbar:
+  right:
+    - text: "Research"
+      href: research.html
+    - text: "Tables"
+      href: tables.html
+    - text: "Citations"
+      href: citations.html
+  search: true
 site: distill::distill_website
+
 ---
 
 ```{r setup, include=FALSE}
