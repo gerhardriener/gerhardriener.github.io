@@ -38,6 +38,5 @@ vignettes/*.pdf
 # R Environment Variables
 .Renviron
 
-# quarto website
-/.quarto/
-/_site/
+
+
