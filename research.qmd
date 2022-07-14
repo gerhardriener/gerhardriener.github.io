@@ -1,0 +1,45 @@
+---
+title: "Research"
+---
+
+I am mainly working on behavioral and experimental economics. I currently combine lab-experimental methods with large scale field experiments.
+
+## Working Papers
+
+- *Reacting to ambiguous messages: An experimental analysis* with Christian Kellner (Southampton) and Mark LeQuement (East Anglia), R&R *Games and Economic Behavior*
+
+- *Motivation in a Reciprocal Task: Interaction Effects of Task Meaning, Goal Salience, and Time Pressure* with Valentin Wagner, R&R *B.E. Journal of Economic Analysis and Policy*
+
+- *Loss Aversion in Social Image Concerns* with Hannah Schildberg-Hörisch and Vasilisa Petrishcheva, R&R *Experimental Economics*
+
+- *Addressing Validity and Generalizability Concerns in Field Experiments* with Sebastian Schneider (MPI Bonn) and Valentin Wagner,  [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3637868), under review
+
+- *Hidden moral costs of control: Field evidence from performance appraisals in the public sector* with Marcela Ibanez, Jan Priebe and Dewi Susanti, under review
+
+- *Affirmative action and application strategies* with Ritwik Banerjee, Marcela Ibanez and Soham Sahoo
+
+- *Gender and Leadership: Experiments in Matrilineal and Patriarchic Societies in India* with Debosree Banerjee, Marcela Ibanez and Meike Wollni
+
+
+## Work in progress
+
+
+- *Narratives to Sustainable Agriculture*: Evidence from Madagascars Vanilla Farmers with Marcela Ibanez and Viviana Uruena. Funded by Volkswagenfoundation
+
+- *Substitution between Charities* Evidence from several experiments on how people substitute between charities and whether multiple charitable appeals create crowding in or crowding out of charitable contributions. With David Reinstein (Maastricht)
+
+- *Radicalism and Social Cohesion*: Evidence from Greece here we observe how group cooperation can break down when the collaborative effort
+has positive externalities on a commonly unloved state—in our case the German state from the viewpoint of Greek students. 450 observations
+of Greek students. Joint with Alexia Katsanidou (Cologne) and Roula Nezi (Surrey)
+
+- *Behavioral Insights into Pension Savings*: Surveys and Lab-in-the-field experiments in Bogota, Colombia. Survey on financial issues, well-being
+and cognitive ability (1200 subjects). Matched with 600 answers from a lab-in-the-field experiment on higher order risk preferences. Joint with
+Marcela Ibanez (Gottingen) and Sebastian Schneider (MPI Bonn).
+
+- *Household Bargaining over Prosocial Decisions: Evidence from Egypt.*
+Representative sample of Cairo population of married women. 600 observations of household survey data and bargaining experiments over
+charitable donations. Joint with Marcela Ibanez and Ghida Karbala.
+
+
+
+

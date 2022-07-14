@@ -1,0 +1,33 @@
+project:
+  type: website
+
+website:
+  title: "Gerhard Riener"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: about.qmd
+  sidebar:
+    style: "docked"
+    search: true
+  contents:
+    - section: "Basics"
+      contents:
+        - index.qmd
+    - section: "Layout"
+      contents:
+        - about.qmd
+execute:
+  freeze: auto
+    
+format:
+  html:
+    theme: zephyr
+    css: styles.css
+    toc: true
+
+
+
