@@ -1,0 +1,13 @@
+---
+title: "Data"
+bibliography: references.bib
+csl: https://raw.githubusercontent.com/citation-style-language/styles/39fede595c38cece6f1dcc05ee94163453798c60/apa.csl
+---
+
+## Data from research projects
+
+I am in the process of systematizing the data. Most of the data will be hosted at [GRO Dataverse](https://data.goettingen-research-online.de/).
+
+-   @dertwinkel-kaltReplicationPackageConcentration2021 for @dertwinkel-kaltConcentrationBiasIntertemporal2021
+-   @rienerReplicationDataFatima2022 for @lambarraaNormsCharitableGiving2015
+-   @rienerReplicationDataReinstein2022 for @reinsteinDecomposingDesertTangibility2011

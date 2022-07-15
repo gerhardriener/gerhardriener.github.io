@@ -11,17 +11,12 @@ website:
         text: Research
       - href: publications.qmd
         text: Publications
+      - href: teaching.qmd
+        text: Teaching
+      - href: data.qmd
+        text: Data
       - href: about.qmd
-  sidebar:
-    style: "docked"
-    search: true
-  contents:
-    - section: "Basics"
-      contents:
-        - index.qmd
-    - section: "Layout"
-      contents:
-        - about.qmd
+
 execute:
   freeze: true
     

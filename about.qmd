@@ -1,9 +1,23 @@
 ---
 title: "About"
+about:
+  template: jolla
 ---
+I am Lab Manager for the DICELab at the HHU Düsseldorf. 
 
-About this site
 
-```{r}
-1 + 1
-```
+## Bio
+
+University of Essex | UK
+PhD in Economics | Sep 2005 - July 2010
+
+University of Vienna | Vienna, Austria
+Mag in Economics | Sep 2000 - Sep 2003
+
+## Experience
+
+Uni Düsseldorf | Lab Manager | June 2022 - present
+
+Uni Düsseldorf | Juniorprof | April 2012 - May 2022
+
+Uni Jena | Postdoc | 2010-2012
