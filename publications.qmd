@@ -1,8 +1,9 @@
 ---
 title: "Publications"
 nocite: |
-  @dertwinkel-kaltConcentrationBiasIntertemporal2021, @RegnerRiener:2012,@lambarraaNormsCharitableGiving2015, @kellner2019
+ @dertwinkel-kaltConcentrationBiasIntertemporal2021; @gaudeulBetterStuckTogether2017; @gneezyPaywhatyouwantIdentitySelfsignaling2012a; @heblichEffectPerceivedRegional2015; @hugh-jonesIntergroupConflictMedia2011; @ibanezSortingAffirmativeAction2017; @kellnerEffectAmbiguityAversion2014; @kellnerExanteCommitmentsGive2019; @lambarraaNormsCharitableGiving2015; @regnerPrivacyPreciousAttempt2017; @reinsteinDecomposingDesertTangibility2011; @reinsteinReputationInfluenceCharitable2011; @rienerHeterogeneousTreatmentEffects2013; @rienerInequalityMobilityHousehold2011; @rienerNormsMoodsFree2012; @rienerShyingAwayDemanding2017; @rienerTeamBuildingHidden2016; @wagnerMotivationReciprocalTask2022
 bibliography: references.bib
+csl: apa-cv.csl
 ---
 
 ::: {#refs}

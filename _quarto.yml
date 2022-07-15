@@ -23,11 +23,11 @@ website:
       contents:
         - about.qmd
 execute:
-  freeze: auto
+  freeze: true
     
 format:
   html:
-    theme: zephyr
+    theme: lumen
     css: styles.css
     toc: true
 
