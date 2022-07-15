@@ -39,6 +39,5 @@ vignettes/*.pdf
 .Renviron
 
 
-
-
+/_site/
 /.quarto/
