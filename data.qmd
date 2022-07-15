@@ -6,7 +6,7 @@ csl: https://raw.githubusercontent.com/citation-style-language/styles/39fede595c
 
 ## Data from research projects
 
-I am in the process of systematizing the data. Most of the data will be hosted at [GRO Dataverse](https://data.goettingen-research-online.de/).
+I am in the process of systematizing the data, this list will grow over the summer.
 
 -   @dertwinkel-kaltReplicationPackageConcentration2021 for @dertwinkel-kaltConcentrationBiasIntertemporal2021
 -   @rienerReplicationDataFatima2022 for @lambarraaNormsCharitableGiving2015
