@@ -2,9 +2,6 @@
 title: "Gerhard Riener"
 ---
 
-I am researcher in experimental economics at DICE, Heinrich-Heine-University Düsseldorf. My research interests include experimental methods in economics, field experiments in labor, education economics and the economics of charitable giving. I also conduct laboratory experiments to investigate human biases in decision making.
-This is fun. 
+I am researcher in experimental economics at DICE, Heinrich-Heine-University Düsseldorf. My research interests include experimental methods in economics, field experiments in labor, education economics and the economics of charitable giving. I also conduct laboratory experiments to investigate human biases in decision making. This is fun.
 
-
-
-For participating in our lab experiments, you can sign up to our lab DICE Lab.
+For participating in our lab experiments, you can sign up to our lab DICE Lab. [Register](https://www.dice.hhu.de/forschung-dice/dicelab)

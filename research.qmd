@@ -8,8 +8,6 @@ I am mainly working on behavioral and experimental economics. I currently combin
 
 - *Reacting to ambiguous messages: An experimental analysis* with Christian Kellner (Southampton) and Mark LeQuement (East Anglia), R&R *Games and Economic Behavior*
 
-- *Motivation in a Reciprocal Task: Interaction Effects of Task Meaning, Goal Salience, and Time Pressure* with Valentin Wagner, R&R *B.E. Journal of Economic Analysis and Policy*
-
 - *Loss Aversion in Social Image Concerns* with Hannah Schildberg-Hörisch and Vasilisa Petrishcheva, R&R *Experimental Economics*
 
 - *Addressing Validity and Generalizability Concerns in Field Experiments* with Sebastian Schneider (MPI Bonn) and Valentin Wagner,  [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3637868), under review
