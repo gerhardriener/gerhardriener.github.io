@@ -4,7 +4,21 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "1 + 1\n\n[1] 2"
+    "text": "I am Lab Manager for the DICELab at the HHU Düsseldorf."
+  },
+  {
+    "objectID": "about.html#bio",
+    "href": "about.html#bio",
+    "title": "About",
+    "section": "Bio",
+    "text": "Bio\nUniversity of Essex | UK PhD in Economics | Sep 2005 - July 2010\nUniversity of Vienna | Vienna, Austria Mag in Economics | Sep 2000 - Sep 2003"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "About",
+    "section": "Experience",
+    "text": "Experience\nUni Düsseldorf | Lab Manager | June 2022 - present\nUni Düsseldorf | Juniorprof | April 2012 - May 2022\nUni Jena | Postdoc | 2010-2012"
   },
   {
     "objectID": "index.html",
@@ -40,5 +54,26 @@
     "title": "Publications",
     "section": "",
     "text": "Riener, G., & Traxler, C. (2012). Norms, moods, and free lunch: Longitudinal evidence on payments from a pay-what-you-want restaurant. Journal of Socio-Economics. https://doi.org/10.1016/j.socec.2011.07.003\n\n\nRiener, G. (2011). Inequality and mobility of household incomes in europe: Evidence from the ECHP. Applied Economics, 44(3), 279–288. https://doi.org/10.1080/00036846.2010.505555\n\n\nHugh-Jones, D., Katsanidou, A., & Riener, G. (2011). Intergroup conflict and the media: An experimental study of greek students after the 2008 riots. International Journal of Conflict and Violence, 5(2), 325–344. http://www.ijcv.org/index.php/ijcv/article/viewArticle/172\n\n\nLambarraa, F., & Riener, G. (2015). On the norms of charitable giving in islam: Two field experiments in morocco. Journal of Economic Behavior & Organization, 118, 69–84. https://doi.org/10.1016/j.jebo.2015.05.006\n\n\nKellner, C., & Riener, G. (2014). The effect of ambiguity aversion on reward scheme choice. Economics Letters, 125(1), 134–137. https://doi.org/10.1016/j.econlet.2014.08.025\n\n\nDertwinkel-Kalt, M., Gerhardt, H., Riener, G., Schwerter, F., & Strang, L. (2021). Concentration bias in intertemporal choice. The Review of Economic Studies, rdab043. https://doi.org/10.1093/restud/rdab043\n\n\nRiener, G., & Wiederhold, S. (2013). Heterogeneous treatment effects in groups. Economics Letters, 120(3), 408–412. https://doi.org/10.1016/j.econlet.2013.05.016\n\n\nIbanez, M., & Riener, G. (2017). Sorting through affirmative action: Three field experiments in colombia. Journal of Labor Economics, 36(2), 437–478. https://doi.org/10.1086/694469\n\n\nRiener, G., & Wagner, V. (2017). Shying away from demanding tasks? Experimental evidence on gender differences in answering multiple-choice questions. Economics of Education Review, 59(Supplement C), 43–62. https://doi.org/10.1016/j.econedurev.2017.06.005\n\n\nReinstein, D., & Riener, G. (2011). Decomposing desert and tangibility effects in a charitable giving experiment. Experimental Economics, 15(1), 229–240. https://doi.org/10.1007/s10683-011-9298-0\n\n\nWagner, V., & Riener, G. (2022). Motivation in a reciprocal task: Interaction effects of task meaning, goal salience, and time pressure. The B.E. Journal of Economic Analysis & Policy. https://doi.org/10.1515/bejeap-2021-0254\n\n\nRegner, T., & Riener, G. (2017). Privacy is precious: On the attempt to lift anonymity on the internet to increase revenue. Journal of Economics & Management Strategy, 26(2), 318–336. https://doi.org/10.1111/jems.12192\n\n\nGaudeul, A., Crosetto, P., & Riener, G. (2017). Better stuck together or free to go? Of the stability of cooperation when individuals have outside options. Journal of Economic Psychology, 59, 99–112. https://doi.org/10.1016/j.joep.2017.01.005\n\n\nGneezy, A., Gneezy, U., Riener, G., & Nelson, L. D. (2012). Pay-what-you-want, identity, and self-signaling in markets. Proceedings of the National Academy of Sciences. https://doi.org/10.1073/pnas.1120893109\n\n\nReinstein, D., & Riener, G. (2011). Reputation and influence in charitable giving: An experiment. Theory and Decision, 72(2), 221–243. https://doi.org/10.1007/s11238-011-9245-8\n\n\nRiener, G., & Wiederhold, S. (2016). Team building and hidden costs of control. Journal of Economic Behavior & Organization, 123, 1–18. https://doi.org/10.1016/j.jebo.2015.12.008\n\n\nKellner, C., Reinstein, D., & Riener, G. (2019). Ex-ante commitments to “give if you win” exceed donations after a win. Journal of Public Economics, 169, 109–127. https://doi.org/10.1016/j.jpubeco.2018.10.009\n\n\nHeblich, S., Lameli, A., & Riener, G. (2015). The effect of perceived regional accents on individual economic behavior: A lab experiment on linguistic performance, cognitive ratings and economic decisions. PloS One, 10(2), e0113475. https://doi.org/10.1371/journal.pone.0113475"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Einführung in die Wirtschaftswissenschaften (Bachelor, Düsseldorf)\nExperimental Economics (Master, Düsseldorf)\nExperiments in the Global South (Bachelor, Göttingen)"
+  },
+  {
+    "objectID": "teaching.html#summer-term-2022",
+    "href": "teaching.html#summer-term-2022",
+    "title": "Teaching",
+    "section": "Summer Term 2022",
+    "text": "Summer Term 2022\n\nIntroduction to Economics\nGame Theory (Bachelor)\nExperimental Economics (Bachelor)"
+  },
+  {
+    "objectID": "data.html",
+    "href": "data.html",
+    "title": "Data",
+    "section": "",
+    "text": "References\n\nLambarraa, F., & Riener, G. (2015). On the norms of charitable giving in islam: Two field experiments in morocco. Journal of Economic Behavior & Organization, 118, 69–84. https://doi.org/10.1016/j.jebo.2015.05.006\n\n\nReinstein, D., & Riener, G. (2011). Decomposing desert and tangibility effects in a charitable giving experiment. Experimental Economics, 15(1), 229–240. https://doi.org/10.1007/s10683-011-9298-0\n\n\nRiener, G., & Lambarraa, F. (2022). Replication data for: Fatima lambarraa and gerhard riener (2015). “On the norms of charitable giving in islam: Two field experiments in morocco.” GRO.data. https://doi.org/10.25625/XCCQDE\n\n\nRiener, G., & Reinstein, D. (2022). Replication data for: Reinstein and riener (2011) decomposing desert and tangibility effects in a charitable giving experiment. GRO.data. https://doi.org/10.25625/SCEQP6"
   }
 ]

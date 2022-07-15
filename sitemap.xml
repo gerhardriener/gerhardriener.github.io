@@ -2,18 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://gerhardriener.github.io/about.html</loc>
-    <lastmod>2022-07-15T08:45:21.806Z</lastmod>
+    <lastmod>2022-07-15T12:04:09.550Z</lastmod>
   </url>
   <url>
     <loc>https://gerhardriener.github.io/index.html</loc>
-    <lastmod>2022-07-15T08:45:22.050Z</lastmod>
+    <lastmod>2022-07-15T12:04:09.803Z</lastmod>
   </url>
   <url>
     <loc>https://gerhardriener.github.io/research.html</loc>
-    <lastmod>2022-07-15T08:45:22.310Z</lastmod>
+    <lastmod>2022-07-15T12:04:10.063Z</lastmod>
   </url>
   <url>
     <loc>https://gerhardriener.github.io/publications.html</loc>
-    <lastmod>2022-07-15T08:45:22.642Z</lastmod>
+    <lastmod>2022-07-15T12:04:10.407Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gerhardriener.github.io/teaching.html</loc>
+    <lastmod>2022-07-15T12:04:10.615Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gerhardriener.github.io/data.html</loc>
+    <lastmod>2022-07-15T12:04:11.103Z</lastmod>
   </url>
 </urlset>
