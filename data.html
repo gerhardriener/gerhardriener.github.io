@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.0.14">
+<meta name="generator" content="quarto-1.0.27">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -150,11 +150,32 @@ div.csl-indent {
 <section id="data-from-research-projects" class="level2">
 <h2 class="anchored" data-anchor-id="data-from-research-projects">Data from research projects</h2>
 <p>I am in the process of systematizing the data, this list will grow over the summer.</p>
-<ul>
-<li><span class="citation" data-cites="dertwinkel-kaltReplicationPackageConcentration2021">Dertwinkel-Kalt et al. (<a href="#ref-dertwinkel-kaltReplicationPackageConcentration2021" role="doc-biblioref">2021a</a>)</span> for <span class="citation" data-cites="dertwinkel-kaltConcentrationBiasIntertemporal2021">Dertwinkel-Kalt et al. (<a href="#ref-dertwinkel-kaltConcentrationBiasIntertemporal2021" role="doc-biblioref">2021b</a>)</span></li>
-<li><span class="citation" data-cites="rienerReplicationDataFatima2022">Riener &amp; Lambarraa (<a href="#ref-rienerReplicationDataFatima2022" role="doc-biblioref">2022</a>)</span> for <span class="citation" data-cites="lambarraaNormsCharitableGiving2015">Lambarraa &amp; Riener (<a href="#ref-lambarraaNormsCharitableGiving2015" role="doc-biblioref">2015</a>)</span></li>
-<li><span class="citation" data-cites="rienerReplicationDataReinstein2022">Riener &amp; Reinstein (<a href="#ref-rienerReplicationDataReinstein2022" role="doc-biblioref">2022</a>)</span> for <span class="citation" data-cites="reinsteinDecomposingDesertTangibility2011">Reinstein &amp; Riener (<a href="#ref-reinsteinDecomposingDesertTangibility2011" role="doc-biblioref">2011</a>)</span></li>
-</ul>
+<table class="table">
+<colgroup>
+<col style="width: 48%">
+<col style="width: 51%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Paper</th>
+<th>Data location</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><span class="citation" data-cites="dertwinkel-kaltConcentrationBiasIntertemporal2021">Dertwinkel-Kalt et al. (<a href="#ref-dertwinkel-kaltConcentrationBiasIntertemporal2021" role="doc-biblioref">2021b</a>)</span></td>
+<td><span class="citation" data-cites="dertwinkel-kaltReplicationPackageConcentration2021">Dertwinkel-Kalt et al. (<a href="#ref-dertwinkel-kaltReplicationPackageConcentration2021" role="doc-biblioref">2021a</a>)</span></td>
+</tr>
+<tr class="even">
+<td><span class="citation" data-cites="lambarraaNormsCharitableGiving2015">Lambarraa &amp; Riener (<a href="#ref-lambarraaNormsCharitableGiving2015" role="doc-biblioref">2015</a>)</span></td>
+<td><p><span class="citation" data-cites="rienerReplicationDataFatima2022">Riener &amp; Lambarraa (<a href="#ref-rienerReplicationDataFatima2022" role="doc-biblioref">2022</a>)</span></p></td>
+</tr>
+<tr class="odd">
+<td><span class="citation" data-cites="reinsteinDecomposingDesertTangibility2011">Reinstein &amp; Riener (<a href="#ref-reinsteinDecomposingDesertTangibility2011" role="doc-biblioref">2011</a>)</span></td>
+<td><p><span class="citation" data-cites="rienerReplicationDataReinstein2022">Riener &amp; Reinstein (<a href="#ref-rienerReplicationDataReinstein2022" role="doc-biblioref">2022</a>)</span></p></td>
+</tr>
+</tbody>
+</table>
 
 
 
@@ -194,7 +215,10 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   const toggleBodyColorPrimary = () => {
-    toggleBodyColorMode(window.document.querySelector("link#quarto-bootstrap"));
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
   }
   toggleBodyColorPrimary();  
   const icon = "";
