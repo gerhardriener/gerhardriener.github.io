@@ -8,6 +8,12 @@ csl: https://raw.githubusercontent.com/citation-style-language/styles/39fede595c
 
 I am in the process of systematizing the data, this list will grow over the summer.
 
--   @dertwinkel-kaltReplicationPackageConcentration2021 for @dertwinkel-kaltConcentrationBiasIntertemporal2021
--   @rienerReplicationDataFatima2022 for @lambarraaNormsCharitableGiving2015
--   @rienerReplicationDataReinstein2022 for @reinsteinDecomposingDesertTangibility2011
++----------------------------------------------------+-------------------------------------------------------+
+| Paper                                              | Data location                                         |
++====================================================+=======================================================+
+| @dertwinkel-kaltConcentrationBiasIntertemporal2021 | @dertwinkel-kaltReplicationPackageConcentration2021   |
++----------------------------------------------------+-------------------------------------------------------+
+| @lambarraaNormsCharitableGiving2015                 | @rienerReplicationDataFatima2022                     |
++----------------------------------------------------+-------------------------------------------------------+
+| @reinsteinDecomposingDesertTangibility2011          | @rienerReplicationDataReinstein2022                  | 
++----------------------------------------------------+-------------------------------------------------------+
