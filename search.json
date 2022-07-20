@@ -4,21 +4,21 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "I am Lab Manager for the DICELab at the HHU Düsseldorf."
+    "text": "I am Lab Manager at the DICELab at the HHU Düsseldorf. My research interests include experimental methods in economics, field experiments in labor, education economics and the economics of charitable giving. I also conduct laboratory experiments to investigate human biases in decision making."
   },
   {
     "objectID": "about.html#bio",
     "href": "about.html#bio",
     "title": "About",
     "section": "Bio",
-    "text": "Bio\nUniversity of Essex | UK PhD in Economics | Sep 2005 - July 2010\nUniversity of Vienna | Vienna, Austria Mag in Economics | Sep 2000 - Sep 2003"
+    "text": "Bio\nUniversity of Essex | UK PhD in Economics | Sep 2005 - July 2010\nInstitute for Advanced Studies Vienna | Austria Diploma in Economics and Econometrics | Sep 2003 - Aug 2005\nUniversity of Vienna | Vienna, Austria Magister rer.soc.oec | Sep 2000 - Sep 2003"
   },
   {
     "objectID": "about.html#experience",
     "href": "about.html#experience",
     "title": "About",
     "section": "Experience",
-    "text": "Experience\nUni Düsseldorf | Lab Manager | June 2022 - present\nIHS Vienna | Research Fellow | May 2022 - present\nGeorg August University Göttingen | Temporary lecturer | 2012 - present\nUni Düsseldorf | Juniorprof | April 2012 - May 2022\nUni Jena | Postdoc | 2010-2012"
+    "text": "Experience\nHeinrich Heine University Düsseldorf | Lab Manager | June 2022 - present\nInstitute for Advanced Studies Vienna | Research Fellow | May 2022 - present\nGeorg August University Göttingen | Temporary Lecturer | 2012 - present\nHeinrich Heine University Düsseldorf | Assistant Professor | April 2012 - May 2022\nFriedrich Schiller University Jena | Postdoc | 2010-2012"
   },
   {
     "objectID": "index.html",
@@ -39,7 +39,7 @@
     "href": "research.html#working-papers",
     "title": "Research",
     "section": "Working Papers",
-    "text": "Working Papers\n\nReacting to ambiguous messages: An experimental analysis with Christian Kellner (Southampton) and Mark LeQuement (East Anglia), R&R Games and Economic Behavior\nLoss Aversion in Social Image Concerns with Hannah Schildberg-Hörisch and Vasilisa Petrishcheva, R&R Experimental Economics\nAddressing Validity and Generalizability Concerns in Field Experiments with Sebastian Schneider (MPI Bonn) and Valentin Wagner, link, under review\nHidden moral costs of control: Field evidence from performance appraisals in the public sector with Marcela Ibanez, Jan Priebe and Dewi Susanti, under review\nAffirmative action and application strategies with Ritwik Banerjee, Marcela Ibanez and Soham Sahoo\nGender and Leadership: Experiments in Matrilineal and Patriarchic Societies in India with Debosree Banerjee, Marcela Ibanez and Meike Wollni"
+    "text": "Working Papers\n\nReacting to ambiguous messages: An experimental analysis with Christian Kellner (Southampton) and Mark LeQuement (East Anglia), R&R (second round) Games and Economic Behavior\nLoss Aversion in Social Image Concerns with Hannah Schildberg-Hörisch and Vasilisa Petrishcheva, R&R Experimental Economics\nAddressing Validity and Generalizability Concerns in Field Experiments with Sebastian Schneider (MPI Bonn) and Valentin Wagner, link, under review\nHidden moral costs of control: Field evidence from performance appraisals in the public sector with Marcela Ibanez, Jan Priebe and Dewi Susanti, under review\nAffirmative action and application strategies with Ritwik Banerjee, Marcela Ibanez and Soham Sahoo\nGender and Leadership: Experiments in Matrilineal and Patriarchic Societies in India with Debosree Banerjee, Marcela Ibanez and Meike Wollni"
   },
   {
     "objectID": "research.html#work-in-progress",
@@ -74,6 +74,6 @@
     "href": "data.html",
     "title": "Data",
     "section": "",
-    "text": "References\n\nDertwinkel-Kalt, M., Gerhardt, H., Riener, G., Schwerter, F., & Strang, L. (2021a). Replication package for: “Concentration bias in intertemporal choice”. Zenodo. https://doi.org/10.5281/zenodo.5091975\n\n\nDertwinkel-Kalt, M., Gerhardt, H., Riener, G., Schwerter, F., & Strang, L. (2021b). Concentration bias in intertemporal choice. The Review of Economic Studies, rdab043. https://doi.org/10.1093/restud/rdab043\n\n\nLambarraa, F., & Riener, G. (2015). On the norms of charitable giving in islam: Two field experiments in morocco. Journal of Economic Behavior & Organization, 118, 69–84. https://doi.org/10.1016/j.jebo.2015.05.006\n\n\nReinstein, D., & Riener, G. (2011). Decomposing desert and tangibility effects in a charitable giving experiment. Experimental Economics, 15(1), 229–240. https://doi.org/10.1007/s10683-011-9298-0\n\n\nRiener, G., & Lambarraa, F. (2022). Replication data for: Fatima lambarraa and gerhard riener (2015). “On the norms of charitable giving in islam: Two field experiments in morocco.” GRO.data. https://doi.org/10.25625/XCCQDE\n\n\nRiener, G., & Reinstein, D. (2022). Replication data for: Reinstein and riener (2011) decomposing desert and tangibility effects in a charitable giving experiment. GRO.data. https://doi.org/10.25625/SCEQP6"
+    "text": "References\n\nDertwinkel-Kalt M. & al., Replication package for: “Concentration bias in intertemporal choice” in: 2021.\n\n\nDertwinkel-Kalt M. & al., Concentration bias in intertemporal choice in: The Review of Economic Studies2021, p. rdab043.\n\n\nLambarraa F. & Riener G., On the norms of charitable giving in islam: Two field experiments in morocco in: Journal of Economic Behavior & Organization 118, 2015, pp. 69–84.\n\n\nReinstein D. & Riener G., Decomposing desert and tangibility effects in a charitable giving experiment in: Experimental Economics 15, 1/2011, pp. 229–240.\n\n\nRiener G. & Lambarraa F., Replication data for: Fatima lambarraa and gerhard riener (2015). “On the norms of charitable giving in islam: Two field experiments in morocco.” in: 2022.\n\n\nRiener G. & Reinstein D., Replication data for: Reinstein and riener (2011) decomposing desert and tangibility effects in a charitable giving experiment in: 2022."
   }
 ]
