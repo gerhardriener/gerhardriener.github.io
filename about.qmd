@@ -3,7 +3,7 @@ title: "About"
 about:
   template: jolla
 ---
-I am Lab Manager for the DICELab at the HHU Düsseldorf. 
+I am Lab Manager at the DICELab at the HHU Düsseldorf. My research interests include experimental methods in economics, field experiments in labor, education economics and the economics of charitable giving. I also conduct laboratory experiments to investigate human biases in decision making.
 
 
 ## Bio
@@ -11,17 +11,20 @@ I am Lab Manager for the DICELab at the HHU Düsseldorf.
 University of Essex | UK
 PhD in Economics | Sep 2005 - July 2010
 
+Institute for Advanced Studies Vienna | Austria
+Diploma in Economics and Econometrics | Sep 2003 - Aug 2005
+
 University of Vienna | Vienna, Austria
-Mag in Economics | Sep 2000 - Sep 2003
+Magister rer.soc.oec | Sep 2000 - Sep 2003
 
 ## Experience
 
-Uni Düsseldorf | Lab Manager | June 2022 - present
+Heinrich Heine University Düsseldorf | Lab Manager | June 2022 - present
 
-IHS Vienna | Research Fellow | May 2022 - present
+Institute for Advanced Studies Vienna | Research Fellow | May 2022 - present
 
-Georg August University Göttingen | Temporary lecturer |  2012 - present  
+Georg August University Göttingen | Temporary Lecturer |  2012 - present  
 
-Uni Düsseldorf | Juniorprof | April 2012 - May 2022
+Heinrich Heine University Düsseldorf | Assistant Professor | April 2012 - May 2022
 
-Uni Jena | Postdoc | 2010-2012
+Friedrich Schiller University Jena | Postdoc | 2010-2012

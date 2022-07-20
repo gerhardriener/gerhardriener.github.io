@@ -1,19 +1,16 @@
 ---
 title: "Data"
 bibliography: references.bib
-csl: https://raw.githubusercontent.com/citation-style-language/styles/39fede595c38cece6f1dcc05ee94163453798c60/apa.csl
+ # https://raw.githubusercontent.com/citation-style-language/styles/39fede595c38cece6f1dcc05ee94163453798c60/apa.csl
+csl: http://www.zotero.org/styles/organon
 ---
 
 ## Data from research projects
 
 I am in the process of systematizing the data, this list will grow over the summer.
 
-+----------------------------------------------------+-------------------------------------------------------+
-| Paper                                              | Data location                                         |
-+====================================================+=======================================================+
-| @dertwinkel-kaltConcentrationBiasIntertemporal2021 | @dertwinkel-kaltReplicationPackageConcentration2021   |
-+----------------------------------------------------+-------------------------------------------------------+
-| @lambarraaNormsCharitableGiving2015                 | @rienerReplicationDataFatima2022                     |
-+----------------------------------------------------+-------------------------------------------------------+
-| @reinsteinDecomposingDesertTangibility2011          | @rienerReplicationDataReinstein2022                  | 
-+----------------------------------------------------+-------------------------------------------------------+
+| Paper                                              | Data location                                       |
+|------------------------------------|------------------------------------|
+| @dertwinkel-kaltConcentrationBiasIntertemporal2021 | @dertwinkel-kaltReplicationPackageConcentration2021 |
+| @lambarraaNormsCharitableGiving2015                | @rienerReplicationDataFatima2022                    |
+| @reinsteinDecomposingDesertTangibility2011         | @rienerReplicationDataReinstein2022                 |
