@@ -6,11 +6,9 @@ I am mainly working on behavioral and experimental economics. I currently combin
 
 ## Working Papers
 
-- *Loss Aversion in Social Image Concerns* with Hannah Schildberg-Hörisch and Vasilisa Petrishcheva, accepted with minor revisions *Experimental Economics*
-
 - *Reacting to ambiguous messages: An experimental analysis* with Christian Kellner (Southampton) and Mark LeQuement (East Anglia), R&R (second round) *Games and Economic Behavior*
 
-- *Until the debt will tear us apart: the rise of affective polarisation"* with Roula Nezi (Surrey), Ann-Kathrin Reinl (Munich), and Alexia Katsanidou (Cologne), under review *Political Behavior*
+- *Until the debt will tear us apart: the rise of affective polarisation"* with Roula Nezi (Surrey), Ann-Kathrin Reinl (Munich), and Alexia Katsanidou (Cologne)
 
 - *Addressing Validity and Generalizability Concerns in Field Experiments* with Sebastian Schneider (MPI Bonn) and Valentin Wagner,  [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3637868)
 
