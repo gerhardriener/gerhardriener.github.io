@@ -2,6 +2,13 @@
 title: "About"
 about:
   template: jolla
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/Gerie1979
+    - icon: github
+      text: Github
+      href: https://github.com/gerhardriener
 ---
 I am Lab Manager at the DICELab at the HHU Düsseldorf. My research interests include experimental methods in economics, field experiments in labor, education economics and the economics of charitable giving. I also conduct laboratory experiments to investigate human biases in decision making.
 
