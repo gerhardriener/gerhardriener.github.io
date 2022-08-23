@@ -17,11 +17,9 @@ website:
         text: Data
       - href: about.qmd
         text: About
+    right: 
       - href: imprint.qmd
         text: Imprint
-  body-footer: | 
-    Imprint
-
 execute:
   freeze: true
     
