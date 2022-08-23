@@ -10,9 +10,9 @@ I am mainly working on behavioral and experimental economics. I currently combin
 
 - *Until the debt will tear us apart: the rise of affective polarisation"* with Roula Nezi (Surrey), Ann-Kathrin Reinl (Munich), and Alexia Katsanidou (Cologne)
 
-- *Addressing Validity and Generalizability Concerns in Field Experiments* with Sebastian Schneider (MPI Bonn) and Valentin Wagner,  [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3637868)
-
 - *Procedural Preferences in Competitive Environments: 	Lab-in-the-Field Evidence from Madagascar* with Marcela Ibanez and Viviana Uruena
+
+- *Addressing Validity and Generalizability Concerns in Field Experiments* with Sebastian Schneider (MPI Bonn) and Valentin Wagner,  [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3637868)
 
 - *Hidden moral costs of control: Field evidence from performance appraisals in the public sector* with Marcela Ibanez, Jan Priebe and Dewi Susanti, under review
 
@@ -22,7 +22,6 @@ I am mainly working on behavioral and experimental economics. I currently combin
 
 
 ## Work in progress
-
 
 - *Narratives to Sustainable Agriculture*: Evidence from Madagascars Vanilla Farmers with Marcela Ibanez and Viviana Uruena. Funded by Volkswagenfoundation
 

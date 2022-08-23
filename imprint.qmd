@@ -1,0 +1,14 @@
+---
+title: "Imprint"
+---
+
+### Postal address
+    Gerhard Riener
+    c/o Universität Düsseldorf
+    Universitätsstr 1
+    40225 Düsseldorf
+    Germany
+### Phone
+    +49 211 81-10252 
+### Mail
+  riener [at] hhu.de

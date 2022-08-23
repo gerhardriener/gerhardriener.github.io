@@ -16,6 +16,9 @@ website:
       - href: data.qmd
         text: Data
       - href: about.qmd
+        text: About
+      - href: imprint.qmd
+        text: Imprint
   body-footer: | 
     Imprint
 
