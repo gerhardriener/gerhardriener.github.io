@@ -1,7 +1,7 @@
 ---
 title: "Publications"
 ---
-(1) Petrishcheva, V.; Riener, G.; Schildberg-Hörisch, H. Loss Aversion in Social Image Concerns. *Experimental Economics* **accepted with minor revisions**,  
+(1) Petrishcheva, V.; Riener, G.; Schildberg-Hörisch, H. Loss Aversion in Social Image Concerns. *Experimental Economics* **accepted**,  
 (1) Wagner, V.; Riener, G. Motivation in a Reciprocal Task: Interaction Effects of Task Meaning, Goal Salience, and Time Pressure. *The B.E. Journal of Economic Analysis & Policy* **2022**.<https://doi.org/10.1515/bejeap-2021-0254>.\
 (2) Riener, G.; Wagner, V. Non-Monetary Rewards in Education.
 *Educational Psychology* **2022**, *42* (2), 222--239. <https://doi.org/10.1080/01443410.2021.1971159>.\
