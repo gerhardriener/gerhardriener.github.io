@@ -9,6 +9,10 @@ about:
     - icon: github
       text: Github
       href: https://github.com/gerhardriener
+    - icon: mastodon
+      aria-label: Mastodon
+      href: https://mastodon.social/@gerhardriener
+      rel: "me"
 ---
 I am Lab Manager at the DICELab at the HHU Düsseldorf. My research interests include experimental methods in economics, field experiments in labor, education economics and the economics of charitable giving. I also conduct laboratory experiments to investigate human biases in decision making.
 
