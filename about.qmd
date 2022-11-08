@@ -13,6 +13,9 @@ about:
       aria-label: Mastodon
       href: https://mastodon.social/@gerhardriener
       rel: "me"
+    - icon: 
+      text: "DICE HHU"
+      href: https://www.dice.hhu.de/diceteam/professorinnen-und-professoren/riener
 ---
 I am Lab Manager at the DICELab at the HHU Düsseldorf. My research interests include experimental methods in economics, field experiments in labor, education economics and the economics of charitable giving. I also conduct laboratory experiments to investigate human biases in decision making.
 
