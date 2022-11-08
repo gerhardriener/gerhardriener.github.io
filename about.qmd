@@ -12,7 +12,7 @@ about:
     - icon: mastodon
       aria-label: Mastodon
       text: Mastodon
-      href: https://mastodon.social/@gerhardriener
+      href: https://econtwitter.net/web/@gerhardriener
     - icon: box-arrow-in-up-right
       text: "DICE HHU"
       href: https://www.dice.hhu.de/diceteam/professorinnen-und-professoren/riener
