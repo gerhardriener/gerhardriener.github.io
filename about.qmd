@@ -17,7 +17,7 @@ about:
       text: "DICE HHU"
       href: https://www.dice.hhu.de/diceteam/professorinnen-und-professoren/riener
 ---
-I am Lab Manager at the DICELab at the HHU Düsseldorf. My research interests include experimental methods in economics, field experiments in labor, education economics and the economics of charitable giving. I also conduct laboratory experiments to investigate human biases in decision making.
+I am Professor of economics at the University of Southampton. My research interests include experimental methods in economics, field experiments in labor, education economics and the economics of charitable giving. I also conduct laboratory experiments to investigate human biases in decision making.
 
 [Mastodon verification](https://econtwitter.net/@gerhardriener){rel="me" style="display: none;"}
 

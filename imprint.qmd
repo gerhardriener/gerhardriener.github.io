@@ -3,18 +3,12 @@ title: "Imprint"
 ---
 
 ### Postal address
- Gerhard Riener
+Gerhard Riener
  
- c/o Universität Düsseldorf
- 
- Universitätsstr 1
- 
- 40225 Düsseldorf
- 
- Germany
+ c/o University of Southampton, University Rd, Southampton SO17 1BJ,
+ United Kingodom
  
 ### Phone
- +49 211 81-10252 
 
 ### Mail
- riener [at] hhu.de
+ g.riener [at] soton.ac.uk
