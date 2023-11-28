@@ -2,7 +2,7 @@
   title: "Gerhard Riener"
 ---
 
-I am professor of economics at the University of Southampton and research fellow in the Behavioral Economics group at the IHS, Vienna. My research interests include experimental methods in economics, field experiments in labor, education economics and the economics of charitable giving. I also conduct laboratory experiments to investigate human biases in decision making.
+I am professor of economics at the University of Southampton and research fellow in the Behavioral Economics group at the IHS, Vienna. My research interests include experimental methods in economics, field experiments in labour, education economics and the economics of charitable giving. I also conduct laboratory experiments to investigate human biases in decision making.
 
 ## News
 

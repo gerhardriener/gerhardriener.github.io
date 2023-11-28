@@ -14,7 +14,7 @@ about:
       text: Mastodon
       href: https://econtwitter.net/web/@gerhardriener
     - icon: box-arrow-in-up-right
-      text: "DICE HHU"
+      text: "Southampton"
       href: https://www.dice.hhu.de/diceteam/professorinnen-und-professoren/riener
 ---
 I am professor of economics at the University of Southampton. My research interests include experimental methods in economics, field experiments in labor, education economics and the economics of charitable giving. I also conduct laboratory experiments to investigate human biases in decision making.
