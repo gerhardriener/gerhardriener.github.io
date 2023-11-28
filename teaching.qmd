@@ -13,4 +13,6 @@
 
 ## Office hour booking
 
+```{=html}
 <iframe src='https://outlook.office365.com/owa/calendar/RienerOfficeHour@sotonac.onmicrosoft.com/bookings/' width='100%' height='100%' scrolling='yes' style='border:0'></iframe>
+```
