@@ -1,9 +1,0 @@
----
-title: "Publications"
-nocite: |
-  @dertwinkel-kaltConcentrationBiasIntertemporal2021, @RegnerRiener:2012,@lambarraaNormsCharitableGiving2015, @kellner2019
-bibliography: references.bib
----
-
-::: {#refs}
-:::
