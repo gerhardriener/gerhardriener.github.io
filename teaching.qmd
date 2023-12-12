@@ -13,4 +13,4 @@
 
 ## Office hour booking
 
-<a href='https://outlook.office365.com/owa/calendar/RienerOfficeHour@sotonac.onmicrosoft.com/bookings/'>Schedule online (Soton students only)</a>
+<a href='https://book.ms/b/RienerOfficeHour@sotonac.onmicrosoft.com' target="_blank" rel="noopener noreferrer">Schedule online (Soton students only)</a>
