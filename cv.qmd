@@ -1,0 +1,254 @@
+---
+title: "Curriculum Vitae"
+format:
+  html:
+    css: styles.css
+bibliography: references.bib
+csl: apa-cv.csl
+---
+
+## Gerhard Riener, PhD
+
+Professor of Economics  
+Department of Economics  
+University of Southampton  
+Southampton, SO17 1BJ, United Kingdom  
+Email: [g.riener@soton.ac.uk](mailto:g.riener@soton.ac.uk)  
+Website: [gerhardriener.github.io](https://gerhardriener.github.io)  
+Status: Research Group Lead Economic Theory and Experimental Economics  
+Field: Public policy experiments, Decision science
+
+## Academic Positions
+
+**Professor of Economics**, Jan. 2023 - Present  
+University of Southampton, United Kingdom  
+Head of Research Group "Economic Theory and Experimental Economics"  
+Head of Knowledge Exchange and Enterprise
+
+**Senior Research Fellow**, Mar. 2022 - Present  
+Institute for Advanced Studies, Vienna, Austria
+
+**Researcher (on leave)**, May 2022 - Present  
+Düsseldorf Institute for Competition Economics, Heinrich‑Heine‑University Düsseldorf, Germany
+
+**Junior Professor**, 2012 - 2022  
+Düsseldorf Institute for Competition Economics, Heinrich‑Heine‑University Düsseldorf, Germany
+
+**Acting Chair**, Sep. 2014 - Jul. 2016  
+Department of Economics, University of Mannheim, Germany
+
+**Post‑Doctoral Research Fellow**, Apr. 2010 - Mar. 2012  
+University of Jena and Max Planck Institute of Economics, Germany
+
+**Affiliated Researcher**, 2012 - Present  
+Research Center "Poverty, Equity and Growth", University of Göttingen, Germany
+
+## Education
+
+**Ph.D. in Economics**, 2005 – 2010  
+University of Essex, Colchester, United Kingdom  
+Supervisors: Christian Ghiglino, Marco Francesconi
+
+**Certificate of Higher Education Practice (Module 1)**, 2006 – 2007  
+University of Essex, Colchester, United Kingdom
+
+**Scholar (Economics and Finance)**, 2003 – 2005  
+Vienna, Austria
+
+**Mag.rer.soc.oec. Economics (hons 1.0/1.0)**, 2000 – 2003  
+University of Vienna, Austria  
+Thesis: "Privatization in Austria: The impact on wages and employment"  
+Supervisor: Uwe Dulleck
+
+**Exchange Student**, Feb. 2002 – Jul. 2002  
+Alicante, Spain
+
+**Economics Studies**, 1998 – 2000  
+University of Linz, Austria
+
+**Secondary Education (with distinction)**, 1989 – 1997  
+Linz, Austria
+
+## Teaching Experience
+
+### University of Southampton
+- Choice and Decision
+- International Economics
+- Experimental Economics
+
+### University of Göttingen
+- Behavioural Development Economics
+- Advanced Microeconomics: Game Theory
+- PhD short course Field Experiments
+
+### Heinrich-Heine-University Düsseldorf
+- Introductory Economics in PPE (using COREecon)
+- Introductory Microeconomics and Game Theory
+- Experimental Economics (Master and PhD)
+- Health Economics
+- Game Theory and Experimental Economics
+- Personnel and Labour Economics
+
+### Catholic University of Eichstätt-Ingolstadt
+- Doctoral course Experimental Economics
+
+### University of Mannheim
+- Econometric Methods for Experimental Research (MSc)
+- Field Experiments and Economic Psychology (BA and MSc)
+
+### University of Essex
+- Economics for Environmental Studies
+- Game Theory
+- Mathematical Methods in Economics (MSc)
+
+### Technical University of Vienna
+- Monetary Economics for Mathematicians
+
+## PhD Supervision
+
+### Current Doctoral Students
+- **Valentin Wagner** - Dissertation on field experiments in schools (first supervisor)  
+  Placement: Post‑doc, University of Mainz (Prof. Schunk)
+- **Daniel Celis** - *Economic Behaviour in Developing Countries* (second supervisor), University of Göttingen
+
+## Research Interests
+
+- Experimental Economics
+- Behavioral Economics
+- Field Experiments
+- Economics of Education
+- Public Policy Experiments
+- Decision Science
+
+## Publications
+
+### Highlighted Publications
+
+1. Kellner, C., Le Quément, M.T., & Riener, G. (2022). Reacting to ambiguous messages: An experimental analysis. *Games and Economic Behavior*, 136, 360-378. https://doi.org/10.1016/j.geb.2022.09.007
+
+2. Dertwinkel‑Kalt, M., Gerhardt, H., Riener, G., Schwerter, F., & Strang, L. (2021). Concentration Bias in Intertemporal Choice. *Review of Economic Studies*, rdab043. https://doi.org/10.1093/restud/rdab043
+
+3. Kellner, C., Reinstein, D., & Riener, G. (2019). Ex‑ante commitments to 'give if you win' exceed donations after a win. *Journal of Public Economics*, 169, 109-127. https://doi.org/10.1016/j.jpubeco.2018.10.009
+
+4. Ibáñez, M., & Riener, G. (2017). Sorting through affirmative action: Three field experiments in Colombia. *Journal of Labor Economics*, 36(2), 437-478. https://doi.org/10.1086/694469
+
+5. Lambarraa, F., & Riener, G. (2015). On the norms of charitable giving in Islam: Two field experiments in Morocco. *Journal of Economic Behavior and Organization*, 118, 69-84. https://doi.org/10.1016/j.jebo.2015.05.006
+
+6. Gneezy, A., Gneezy, U., Riener, G., & Nelson, L.D. (2012). Pay‑what‑you‑want, identity, and self‑signaling in markets. *Proceedings of the National Academy of Sciences*, 109(19), 7231-7236. https://doi.org/10.1073/pnas.1120893109
+
+### Full Publication List
+
+1. Kellner, C., Le Quément, M.T., & Riener, G. (2022). *Games and Economic Behavior*, 136, 360-378.
+
+2. Dertwinkel‑Kalt, M. et al. (2021). *Review of Economic Studies*, rdab043.
+
+3. Kellner, C., Reinstein, D., & Riener, G. (2019). *Journal of Public Economics*, 169, 109-127.
+
+4. Ibáñez, M., & Riener, G. (2017). *Journal of Labor Economics*, 36(2), 437-478.
+
+5. Lambarraa, F., & Riener, G. (2015). *JEBO*, 118, 69-84.
+
+6. Gneezy, A. et al. (2012). *PNAS*, 109(19), 7231-7236.
+
+7. Petrishcheva, V., Riener, G., & Schildberg‑Hörisch, H. (2022). *Experimental Economics*.
+
+8. Wagner, V., & Riener, G. (2022). *B.E. Journal of Economic Analysis and Policy*.
+
+9. Riener, G., & Wagner, V. (2022). *Educational Psychology*, 42(2), 222-239.
+
+10. Riener, G., & Wagner, V. (2019). *Education Economics*, 27(3), 223-240.
+
+11. Riener, G., & Wagner, V. (2017). *Economics of Education Review*, 59, 43-62.
+
+12. Regner, T., & Riener, G. (2017). *JEMS*, 26(2), 318-336.
+
+13. Gaudeul, A., Crosetto, P., & Riener, G. (2017). *Journal of Economic Psychology*, 59, 99-112.
+
+14. Riener, G., & Wiederhold, S. (2016). *JEBO*, 123, 1-18.
+
+15. Heblich, S., Lameli, A., & Riener, G. (2015). *PLOS ONE*, 10(2), e0113475.
+
+16. Kellner, C., & Riener, G. (2014). *Economics Letters*, 125(1), 134-137.
+
+17. Riener, G., & Wiederhold, S. (2013). *Economics Letters*, 120(3), 408-412.
+
+18. Riener, G., & Traxler, C. (2012). *Journal of Socio‑Economics*, 41(4), 383-390.
+
+19. Hugh‑Jones, D., Katsanidou, A., & Riener, G. (2011). *International Journal of Conflict and Violence*, 5(2), 325-344.
+
+20. Reinstein, D., & Riener, G. (2011). *Experimental Economics*, 15(1), 229-240.
+
+21. Reinstein, D., & Riener, G. (2011). *Theory and Decision*, 72(2), 221-243.
+
+22. Riener, G. (2011). *Applied Economics*, 44(3), 279-288.
+
+## Research Grants and Honors
+
+**Donation of the Wealthy in Austria**, 2022  
+Austrian Fundraising Foundation  
+EUR 50,000
+
+**Experimental laboratory equipment for research and education**, 2022  
+Infrastructure Fund, University of Düsseldorf  
+EUR 23,000
+
+**Schwarz‑Schütte Förderpreis (Labour and Education Economics)**, 2020  
+University of Düsseldorf
+
+**Handelsblatt Ökonomenranking**, 2020  
+Top‑100 under 40
+
+**Didactic use of experiments in undergraduate education**, 2017  
+E‑Learning Fund, University of Düsseldorf  
+EUR 9,500
+
+**Radicalism in Greece (EU Thales Grant)**, 2016  
+European Union
+
+**Small Grant for study of social riots in Greece**, 2010  
+British Academy  
+(Mentor: R. Morton, NYU)
+
+**Post‑doctoral Scholarship**, 2010  
+DFG  
+University of Jena and Max Planck Institute
+
+**Prize of the Theodor Körner Fonds**, 2006  
+Vienna
+
+**Full PhD Scholarship (fees and maintenance)**, 2005  
+University of Essex
+
+**Scholarship**, 2003  
+Institute for Advanced Studies, Vienna
+
+**University Prize for Academic Excellence**, 2003  
+University of Vienna
+
+## Professional Service
+
+### Referee for Journals
+Quantitative Economics; Management Science; Economic Journal; Journal of Public Economics; Economic Theory; Labour Economics; Journal of Economic Psychology; Journal of Economic Behavior and Organization; Southern Economic Journal; Ensayos Económicos; European Economic Review; Journal of Evolutionary Economics; Theory and Decision; German Economic Review; Journal of Public Economic Theory; B.E. Journal of Theoretical Economics; Frontiers in Psychology
+
+### Reviewer for Institutions
+LACEEP; SSHRC (Canada); Czech Science Foundation; Swiss Science Foundation; Diligentia Foundation
+
+## Media Experience
+
+Research discussed on **Deutschlandfunk**, **BBC Radio**, in *The Economist*, *The Times*, and various German and Austrian newspapers and business blogs.
+
+## Languages
+
+- English (Fluent)
+- German (Native)
+- Spanish (Intermediate)
+- French (Basic)
+
+## Technical Skills
+
+- Statistical Software: R, Stata
+- Experimental Software: oTree, z-Tree
+- Survey Tools: Qualtrics
+- Data Visualization: R (ggplot2)
+
+*Last updated: May 2025*

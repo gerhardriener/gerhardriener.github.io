@@ -1,11 +1,135 @@
 ---
-  title: "Gerhard Riener"
+title: "Gerhard Riener"
+format:
+  html:
+    css: styles.css
 ---
 
-I am professor of economics at the University of Southampton and research fellow in the Behavioral Economics group at the IHS, Vienna. My research interests include experimental methods in economics, field experiments in labour, education economics and the economics of charitable giving. I also conduct laboratory experiments to investigate human biases in decision making.
+:::{.column-page}
 
-## News
+::: {.grid}
+::: {.g-col-8}
+# Gerhard Riener
 
-New policy report on donation of the rich (summary in English): Gangl, Katharina; Kuschej, Hermann; Abstiens, Kira; Riener, Gerhard and Ropret Homar, Aja (July 2023) Wie kann eine Kultur der Philanthropie aufgebaut werden? Verhaltenswissenschaftliche Maßnahmen mit Fokus auf Vermögende. [Link](https://irihs.ihs.ac.at/id/eprint/6614/ "Culture of philanthropy")
+## Professor of Economics
+
+### University of Southampton
+
+I am a professor of economics at the University of Southampton and research fellow in the Behavioral Economics group at the IHS, Vienna. My research focuses on experimental methods in economics, field experiments in labour, education economics and the economics of charitable giving.
+
+::: {.mt-3}
+[Research](research.qmd){.btn .btn-primary} [Curriculum Vitae](cv.qmd){.btn .btn-outline-primary}
+:::
+:::
+
+::: {.g-col-4 .text-center}
+
+:::
+:::
+
+## Research Interests
+
+- Experimental Economics
+- Behavioral Economics
+- Field Experiments
+- Economics of Education
+- Public Policy Experiments
+- Decision Science
+
+
+## Featured Publications
+
+::: {.grid}
+::: {.g-col-6}
+::: {.card}
+### Concentration Bias in Intertemporal Choice
+*Review of Economic Studies (2021)*
+
+This study demonstrates how individuals systematically overweight concentrated payoffs relative to dispersed ones, leading to time-inconsistent choices and dynamically inconsistent preferences.
+
+[Read Paper](https://doi.org/10.1093/restud/rdab043)
+:::
+:::
+
+::: {.g-col-6}
+::: {.card}
+### On the Norms of Charitable Giving in Islam
+*Journal of Economic Behavior & Organization (2015)*
+
+Through two field experiments in Morocco, we examine how religious norms affect charitable giving, finding significant differences in donation patterns based on Islamic principles.
+
+[Read Paper](https://doi.org/10.1016/j.jebo.2015.05.006)
+:::
+:::
+
+::: {.g-col-6}
+::: {.card}
+### Affective Polarization: Experimental Evidence
+*Working Paper (2025)*
+
+Our research investigates how economic factors contribute to political polarization, with experimental evidence showing how debt-related narratives affect partisan attitudes.
+
+[View Details](research.qmd)
+:::
+:::
+
+::: {.g-col-6}
+::: {.card}
+### Hidden Moral Costs of Control
+*Under Review (2023)*
+
+Field evidence from performance appraisals in the public sector reveals significant hidden moral costs associated with monitoring and control mechanisms.
+
+[View Details](research.qmd)
+:::
+:::
+:::
+
+## Academic Positions
+
+**Professor of Economics** (2023-Present)  
+University of Southampton, United Kingdom  
+*Head of Research Group "Economic Theory and Experimental Economics"*  
+*Head of Knowledge Exchange and Enterprise*
+
+**Senior Research Fellow** (2022-Present)  
+Institute for Advanced Studies, Vienna, Austria
+
+**Senior Researcher (on leave)** (2022-Present)  
+Düsseldorf Institute for Competition Economics, Heinrich‑Heine‑University Düsseldorf, Germany
+
+**Junior Professor** (2012-2022)  
+Düsseldorf Institute for Competition Economics, Heinrich‑Heine‑University Düsseldorf, Germany
+
+## Education
+
+**Ph.D. in Economics** (2005-2010)  
+University of Essex, Colchester, United Kingdom
+
+**Mag.rer.soc.oec. Economics** (2000-2003)  
+University of Vienna, Austria
+
+## Technical Skills
+
+- Statistical Software: R, Stata
+- Experimental Software: oTree, z-Tree
+- Survey Tools: Qualtrics, LimeSurvey
+- Data Visualization: R (ggplot2)
+
+## News & Media
+- **May 2024** Panelist AI in Research University of Southampton
+- **July 2023** - Policy report on donation behavior of high-net-worth individuals: Gangl, Katharina; Kuschej, Hermann; Abstiens, Kira; Riener, Gerhard and Ropret Homar, Aja (July 2023) "Wie kann eine Kultur der Philanthropie aufgebaut werden? Verhaltenswissenschaftliche Maßnahmen mit Fokus auf Vermögende." [Read report](https://irihs.ihs.ac.at/id/eprint/6614/)
+
+## Upcoming Events
+
+| Date | Event | Location |
+|------|-------|----------|
+
+| September, 2025 | Behavioural public policy Coference | King's College London, UK |
+| May 2, 2025 | 2025 Portsmouth Southampton Workshop Experimental Econ | Portsmouth, UK |
+
+[View all events](events.qmd)
+
+:::
 
 [Mastodon verification](https://econtwitter.net/@gerhardriener){rel="me" style="display: none;"}

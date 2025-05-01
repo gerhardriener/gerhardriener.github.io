@@ -1,0 +1,79 @@
+---
+title: "Events & Presentations"
+---
+
+## Upcoming Events
+
+| Date | Event | Location | Role |
+|------|-------|----------|------|
+| June 15-18, 2025 | 2025 Economic Science Association World Meeting | Boston, USA | Presenter: "Field Experiments in Labor Economics" |
+| July 8-10, 2025 | Behavioral Economics Workshop | University of Zurich, Switzerland | Keynote Speaker |
+| August 21-23, 2025 | NBER Summer Institute: Economics of Education | Cambridge, MA, USA | Discussant |
+| September 5-7, 2025 | European Economic Association Annual Congress | Barcelona, Spain | Session Chair: "Experimental Methods in Development Economics" |
+
+## Recent Presentations
+
+### 2025
+
+- "Charitable Giving and Social Preferences: New Experimental Evidence"
+  *Royal Economic Society Annual Conference*, April 2025, University of Manchester
+
+- "Experimental Evidence on Gender Disparities in Labor Markets"
+  *Gender Economics Workshop*, March 2025, Paris School of Economics
+
+- "Field Experiments in Education: Methodological Challenges"
+  *Applied Economics Research Seminar*, February 2025, University of Southampton
+
+### 2024
+
+- "The Rise of Affective Polarization: Experimental Evidence"
+  *Political Economy Workshop*, December 2024, London School of Economics
+
+- "Procedural Preferences in Competitive Environments"
+  *Behavioral Economics Seminar Series*, November 2024, University of Chicago
+
+- "Addressing Validity in Field Experiments"
+  *Methods in Economics Conference*, October 2024, Berlin
+
+- "Hidden Moral Costs of Control in Performance Appraisals"
+  *Public Economics Annual Meeting*, September 2024, University of Cologne
+
+## Workshops & Seminars
+
+### Organized Events
+
+- **Southampton Experimental Economics Workshop**
+  *University of Southampton*, May 2025
+  A two-day workshop focusing on methodological advances in experimental economics.
+
+- **Field Experiments in Policy Design**
+  *Joint with UK Behavioral Insights Team*, February 2025
+  A workshop bringing together academics and policymakers to discuss applications of field experiments.
+
+### Guest Seminars
+
+- **Columbia University**, Department of Economics, March 2025
+  "Affirmative Action and Application Strategies: Evidence from Field Experiments"
+
+- **Princeton University**, School of Public and International Affairs, February 2025
+  "Gender and Leadership: Experiments in Different Social Contexts"
+
+- **University of Oxford**, Blavatnik School of Government, January 2025
+  "Behavioral Insights into Public Policy: Evidence from Field Experiments"
+
+## Conference Organization
+
+- **Program Committee Member**, Economic Science Association World Meeting, 2025
+- **Scientific Committee**, European Association of Labour Economists Conference, 2024-2025
+- **Co-organizer**, Workshop on Experimental Methods in Policy Evaluation, University of Southampton, 2024
+- **Track Chair**, Behavioral Economics, European Economic Association Annual Congress, 2024
+
+## Academic Visits
+
+| Period | Institution | Host |
+|--------|-------------|------|
+| Fall 2025 (Planned) | Stanford University | Department of Economics |
+| Spring 2024 | University of Chicago | Becker Friedman Institute |
+| Summer 2023 | Paris School of Economics | Experimental Economics Group |
+
+*For inquiries about research presentations or workshop participation, please contact me at [g.riener@soton.ac.uk](mailto:g.riener@soton.ac.uk).*

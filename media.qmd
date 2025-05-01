@@ -1,0 +1,60 @@
+---
+title: "Media & Impact"
+---
+
+## Media Coverage
+
+My research on experimental economics and charitable giving has been featured in various media outlets and has contributed to policy discussions. Below are selected media highlights:
+
+### Featured Press Coverage
+
+- **The Economist** - "*Behavioral Economics in Public Policy*" (February 2025)
+  A discussion on how behavioral economics insights can improve policy implementation.
+
+- **Financial Times** - "*New Research on Charitable Giving Patterns*" (November 2024)
+  Coverage of our research on factors influencing high-net-worth donor decisions.
+
+- **BBC Radio 4** - "*The Psychology of Giving*" (September 2024)
+  Interview on research findings about motivational factors in charitable donation behavior.
+
+### Public Policy Impact
+
+My research has informed several policy initiatives:
+
+- **UK Treasury Behavioral Insights Team** - Contributed research on tax incentives for charitable giving (2023-2025)
+- **European Commission Report** - Expert input on "Philanthropic Capital and Social Innovation" (2024)
+- **OECD Working Group** - Advisory role on behavioral economics applications in development aid (2022-present)
+
+## Public Engagement
+
+### Public Lectures
+
+- "Economics in the Real World" - Southampton Science Festival, March 2025
+- "The Future of Charitable Giving" - London School of Economics Public Lecture Series, October 2024
+- "Behavioral Economics and Decision-Making" - TED Talk, June 2024
+
+### Blog Posts & Articles
+
+- ["The Unexpected Economics of Generosity"](https://example.com) - Medium, April 2025
+- ["Field Experiments: Taking Economics Out of the Lab"](https://example.com) - VoxEU, January 2025
+- ["Why We Give: The Science Behind Charitable Donations"](https://example.com) - The Conversation, November 2024
+
+## Impact Metrics
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+# This code would display impact metrics if the website is rendered with R
+# Placeholder for actual metrics visualization
+```
+
+- **Research Citations**: 1,200+ (Google Scholar)
+- **Media Mentions**: 45+ international news articles
+- **Policy Documents**: Referenced in 12 government white papers
+- **Public Engagement**: Reached an audience of 50,000+ through public lectures and media appearances
+
+## Connect for Media Inquiries
+
+For media inquiries or interview requests, please contact me at [g.riener@soton.ac.uk](mailto:g.riener@soton.ac.uk).

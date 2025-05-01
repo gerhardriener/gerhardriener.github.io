@@ -1,0 +1,426 @@
+%-----------------------------------------------------------------------------------------------------------------------------------------------%
+%	The MIT License (MIT)
+%
+%	Copyright (c) 2015 Jan Küster
+%
+%	Permission is hereby granted, free of charge, to any person obtaining a copy
+%	of this software and associated documentation files (the "Software"), to deal
+%	in the Software without restriction, including without limitation the rights
+%	to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+%	copies of the Software, and to permit persons to whom the Software is
+%	furnished to do so, subject to the following conditions:
+%	
+%	THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+%	IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+%	FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+%	AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+%	LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+%	OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+%	THE SOFTWARE.
+%	
+%
+%-----------------------------------------------------------------------------------------------------------------------------------------------%
+
+
+%============================================================================%
+%
+%	DOCUMENT DEFINITION
+%
+%============================================================================%
+\documentclass[10pt,A4]{article}	
+
+
+%----------------------------------------------------------------------------------------
+%	ENCODING
+%----------------------------------------------------------------------------------------
+\usepackage[utf8]{inputenc}		
+
+%----------------------------------------------------------------------------------------
+%	LOGIC
+%----------------------------------------------------------------------------------------
+\usepackage{xifthen}
+
+%----------------------------------------------------------------------------------------
+%	FONT
+%----------------------------------------------------------------------------------------
+
+% some tex-live fonts - choose your own
+\usepackage{raleway}
+
+% set font default
+\renewcommand*\familydefault{\sfdefault} 	
+\usepackage[T1]{fontenc}
+
+% more font size definitions
+\usepackage{moresize}		
+
+
+%----------------------------------------------------------------------------------------
+%	PAGE LAYOUT  DEFINITIONS
+%----------------------------------------------------------------------------------------
+\usepackage[a4paper]{geometry}		
+\geometry{top=1.25cm, bottom=-.1cm, left=1.5cm, right=1.5cm} 	
+
+\usepackage{fancyhdr}				
+\pagestyle{fancy}
+\usepackage[colorlinks, allcolors=sectcol]{hyperref}
+%less space between header and content
+\setlength{\headheight}{-5pt}		
+
+\setlength{\parindent}{0mm}
+
+%----------------------------------------------------------------------------------------
+%	TABLE /ARRAY DEFINITIONS
+%---------------------------------------------------------------------------------------- 
+%for layouting tables
+\usepackage{multicol}			
+\usepackage{multirow}
+
+%extended aligning of tabular cells
+\usepackage{array}
+
+\newcolumntype{x}[1]{%
+>{\raggedleft\hspace{0pt}}p{#1}}%
+
+\providecommand{\tightlist}{\setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+%----------------------------------------------------------------------------------------
+%	GRAPHICS DEFINITIONS
+%---------------------------------------------------------------------------------------- 
+\usepackage{graphicx}
+\usepackage{wrapfig}
+\usepackage{float}
+\usepackage{tikz}				
+\usetikzlibrary{shapes, backgrounds,mindmap, trees}
+
+
+%----------------------------------------------------------------------------------------
+%	Color DEFINITIONS
+%---------------------------------------------------------------------------------------- 
+
+\usepackage{color}
+
+%accent color
+\definecolor{sectcol}{HTML}{58748F}
+
+%dark background color
+\definecolor{bgcol}{RGB}{110,110,110}
+
+%light background / accent color
+\definecolor{softcol}{RGB}{225,225,225}
+
+
+%============================================================================%
+%
+%
+%	DEFINITIONS
+%
+%
+%============================================================================%
+
+%----------------------------------------------------------------------------------------
+% 	HEADER
+%----------------------------------------------------------------------------------------
+
+% remove top header line
+\renewcommand{\headrulewidth}{0pt} 
+
+%remove botttom header line
+\renewcommand{\footrulewidth}{0pt}	  	
+
+%remove pagenum
+\renewcommand{\thepage}{}	
+
+%remove section num		
+\renewcommand{\thesection}{}			
+
+
+%----------------------------------------------------------------------------------------
+%	custom sections
+%----------------------------------------------------------------------------------------
+
+% create a coloured box with arrow and title as cv section headline
+% param 1: section title
+%
+\newcommand{\cvsection}[1]
+{
+	\begin{center}
+		\large\textcolor{sectcol}{\textbf{#1}}
+	\end{center}
+}
+
+%
+\newcommand{\metasection}[2]
+{
+\footnotesize{#2} \hspace*{\fill} \footnotesize{#1}\\[1pt]
+}
+
+%----------------------------------------------------------------------------------------
+%	 CV EVENT
+%----------------------------------------------------------------------------------------
+
+% creates a stretched box as cv entry headline followed by some paragraphs about 
+% the work you did
+% param 1:	event time i.e. 2014 or 2011-2014 etc.
+% param 2:	event name (what did you do?)
+% param 3:	institution (where did you work / study)
+% param 4:	list of paragraphs
+%
+\newcommand{\cvevent}[4]
+{
+
+\begin{tabular*}{1\textwidth}{p{13.6cm}  x{3.9cm}}
+	\textbf{#2} - \textcolor{bgcol}{#3} &   \vspace{2.5pt}\textcolor{sectcol}{#1}
+\end{tabular*}
+
+\vspace{-8pt}
+\textcolor{softcol}{\hrule}
+\vspace{6pt}
+\foreach \desc in {#4}{
+	*  \desc\\[3pt]
+}
+	
+\vspace{3pt}
+}
+
+% creates a stretched box as 
+\newcommand{\cveventmeta}[2]
+{
+	\mbox{\mystrut \hspace{87pt}\textit{#1}}\\
+	#2
+}
+
+%----------------------------------------------------------------------------------------
+% CUSTOM STRUT FOR EMPTY BOXES
+%----------------------------------------- -----------------------------------------------
+\newcommand{\mystrut}{\rule[-.3\baselineskip]{0pt}{\baselineskip}}
+
+\begin{document}
+
+\pagestyle{fancy}
+
+%---------------------------------------------------------------------------------------
+%	TITLE HEADLINE
+%----------------------------------------------------------------------------------------
+\vspace{-8pt}
+\begin{center}
+	\HUGE \textsc{Gerhard
+Riener} \textcolor{sectcol}{\rule[-1mm]{1mm}{0.9cm}} \textsc{Resume}\\[2pt]
+	\small Professor of Economics
+\end{center}
+
+\vspace{6pt}
+
+%---------------------------------------------------------------------------------------
+%	META SECTION
+%----------------------------------------------------------------------------------------
+\metasection{Southmapton, UK}{\textbf{Status}: Research Group Lead
+Economic Theory and Experimental Economics}
+\metasection{gerhardriener.github.io}{\textbf{Field}: Public policy
+experiments, Decision science}
+
+\vspace{-2pt}
+\textcolor{softcol}{\hrule}
+\vspace{6pt}
+
+\normalsize
+
+\vspace{-6pt}
+\cvsection{Appointments}
+
+\cvevent{Jan. 2023 - Present}{Professor of Economics}{University of Southampton}{{Head of Research Group “Economic Theory and Experimental Economics”},{Head of Knowledge Exchange and Enterprise}}
+\cvevent{Mar. 2022 - Present}{Senior Research Fellow}{Institute for Advanced Studies, Vienna}{{}}
+\cvevent{May 2022 - Present}{Researcher (on leave)}{Düsseldorf Institute for Competition Economics, Heinrich‑Heine‑University Düsseldorf}{{}}
+\cvevent{2012 - 2022}{Junior Professor}{Düsseldorf Institute for Competition Economics, Heinrich‑Heine‑University Düsseldorf}{{}}
+\cvevent{Sep. 2014 - Jul. 2016}{Acting Chair}{Department of Economics, University of Mannheim}{{}}
+\cvevent{Apr. 2010 - Mar. 2012}{Post‑Doctoral Research Fellow}{University of Jena and Max Planck Institute of Economics}{{}}
+\cvevent{2012 - Present}{Affiliated Researcher}{Research Center “Poverty, Equity and Growth”, University of Göttingen}{{}}
+
+\cvsection{Education}
+
+\cvevent{2005 – 2010}{Ph.D. in Economics}{Essex (Colchester), United Kingdom}{{Supervisors: Christian Ghiglino, Marco Francesconi}}
+\cvevent{2006 – 2007}{Certificate of Higher Education Practice (Module 1)}{Essex (Colchester), United Kingdom}{{}}
+\cvevent{2003 – 2005}{Scholar (Economics and Finance)}{Vienna, Austria}{{}}
+\cvevent{2000 – 2003}{Mag.rer.soc.oec. Economics (hons 1.0/1.0)}{Vienna, Austria}{{Thesis: “Privatization in Austria: The impact on wages and employment”},{Supervisor: Uwe Dulleck}}
+\cvevent{Feb. 2002 – Jul. 2002}{Exchange Student}{Alicante, Spain}{{}}
+\cvevent{1998 – 2000}{Economics Studies}{Linz, Austria}{{}}
+\cvevent{1989 – 1997}{Secondary Education (with distinction)}{Linz, Austria}{{}}
+
+\cvsection{Teaching}
+
+\cvevent{}{c("Choice and Decision", "International Economics", "Experimental economics")}{Southampton}{{Choice and Decision},{International Economics},{Experimental economics}}
+\cvevent{}{c("Behavioural Development Economics", "Advanced Microeconomics: Game Theory", "PhD short course Field Experiments")}{Göttingen}{{Behavioural Development Economics},{Advanced Microeconomics: Game Theory},{PhD short course Field Experiments}}
+\cvevent{}{c("Introductory Economics in PPE (using COREecon)", "Introductory Microeconomics and Game Theory", "Experimental Economics (Master and PhD)", "Health Economics", "Game Theory and Experimental Economics", "Personnel and Labour Economics")}{Düsseldorf}{{Introductory Economics in PPE (using COREecon)},{Introductory Microeconomics and Game Theory},{Experimental Economics (Master and PhD)},{Health Economics},{Game Theory and Experimental Economics},{Personnel and Labour Economics}}
+\cvevent{}{Doctoral course Experimental Economics}{Eichstätt-Ingolstadt}{{Doctoral course Experimental Economics}}
+\cvevent{}{c("Econometric Methods for Experimental Research (MSc)", "Field Experiments and Economic Psychology (BA and MSc)")}{Mannheim}{{Econometric Methods for Experimental Research (MSc)},{Field Experiments and Economic Psychology (BA and MSc)}}
+\cvevent{}{c("Economics for Environmental Studies", "Game Theory", "Mathematical Methods in Economics (MSc)")}{Essex}{{Economics for Environmental Studies},{Game Theory},{Mathematical Methods in Economics (MSc)}}
+\cvevent{}{Monetary Economics for Mathematicians}{Technical University of Vienna}{{Monetary Economics for Mathematicians}}
+
+\cvsection{Doctoral Students}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Valentin~Wagner} -- Dissertation on field experiments in
+  schools (first supervisor). Placement: Post‑doc, University of Mainz
+  (Prof.~Schunk)\\
+\item
+  \textbf{Daniel~Celis} -- \emph{Economic Behaviour in Developing
+  Countries} (second supervisor), University of Göttingen
+\end{itemize}
+
+\cvsection{Refereeing and External Reviewing}
+
+\textbf{Journals:} \emph{Quantitative Economics; Management Science;
+Economic Journal; Journal of Public Economics; Economic Theory; Labour
+Economics; Journal of Economic Psychology; Journal of Economic Behavior
+and~Organization; Southern Economic Journal; Ensayos Económicos;
+European Economic Review; Journal of Evolutionary Economics; Theory
+and~Decision; German Economic Review; Journal of Public Economic Theory;
+B.E. Journal of Theoretical Economics; Frontiers in Psychology}
+
+\textbf{Institutions:} LACEEP; SSHRC (Canada); Czech Science Foundation;
+Swiss Science Foundation; Diligentia Foundation
+
+\cvsection{Media Experience}
+
+Research discussed on \textbf{Deutschlandfunk}, \textbf{BBC Radio}, in
+\emph{The\,Economist}, \emph{The Times}, and various German and~Austrian
+newspapers and business blogs.
+
+\cvsection{Honors and Grants}
+
+\cvevent{2022}{Donation of the Wealthy in Austria}{Austrian Fundraising Foundation}{{EUR 50,000}}
+\cvevent{2022}{Experimental laboratory equipment for research and education}{Infrastructure Fund, University of Düsseldorf}{{EUR 23,000}}
+\cvevent{2020}{Schwarz‑Schütte Förderpreis (Labour and Education Economics)}{University of Düsseldorf}{{}}
+\cvevent{2020}{*Handelsblatt* Ökonomenranking}{Top‑100 under 40}{{}}
+\cvevent{2017}{Didactic use of experiments in undergraduate education}{E‑Learning Fund, University of Düsseldorf}{{EUR 9,500}}
+\cvevent{2016}{Radicalism in Greece (EU Thales Grant)}{European Union}{{}}
+\cvevent{2010}{Small Grant for study of social riots in Greece}{British Academy}{{(Mentor: R. Morton, NYU)}}
+\cvevent{2010}{Post‑doctoral Scholarship}{DFG}{{University of Jena and Max Planck Institute}}
+\cvevent{2006}{Prize of the Theodor Körner Fonds}{Vienna}{{}}
+\cvevent{2005}{Full PhD Scholarship (fees and maintenance)}{University of Essex}{{}}
+\cvevent{2003}{Scholarship}{Institute for Advanced Studies, Vienna}{{}}
+\cvevent{2003}{University Prize for Academic Excellence}{University of Vienna}{{}}
+
+\cvsection{Publications}
+
+\cvsection{Highlighted Publications}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Kellner, C.; Le~Quément, M.\,T.; \textbf{Riener,\,G.} (2022).
+  ``Reacting to ambiguous messages: An experimental analysis.''
+  \emph{Games and Economic Behavior}, 136, 360--378.
+  \url{https://doi.org/10.1016/j.geb.2022.09.007}\\
+\item
+  Dertwinkel‑Kalt, M.; Gerhardt, H.; \textbf{Riener,\,G.}; Schwerter,
+  F.; Strang, L. (2021). ``Concentration Bias in Intertemporal Choice.''
+  \emph{Review of Economic Studies}, rdab043.
+  \url{https://doi.org/10.1093/restud/rdab043}\\
+\item
+  Kellner, C.; Reinstein, D.; \textbf{Riener,\,G.} (2019). ``Ex‑ante
+  commitments to `give if you win' exceed donations after a win.''
+  \emph{Journal of Public Economics}, 169, 109--127.
+  \url{https://doi.org/10.1016/j.jpubeco.2018.10.009}\\
+\item
+  Ibáñez, M.; \textbf{Riener,\,G.} (2017). ``Sorting through affirmative
+  action: Three field experiments in Colombia.'' \emph{Journal of Labor
+  Economics}, 36\,(2), 437--478. \url{https://doi.org/10.1086/694469}\\
+\item
+  Lambarraa, F.; \textbf{Riener,\,G.} (2015). ``On the norms of
+  charitable giving in Islam: Two field experiments in Morocco.''
+  \emph{Journal of Economic Behavior and~Organization}, 118, 69--84.
+  \url{https://doi.org/10.1016/j.jebo.2015.05.006}\\
+\item
+  Gneezy, A.; Gneezy, U.; \textbf{Riener,\,G.}; Nelson, L.\,D. (2012).
+  ``Pay‑what‑you‑want, identity, and self‑signaling in markets.''
+  \emph{Proceedings of the National Academy of Sciences}, 109\,(19),
+  7231--7236. \url{https://doi.org/10.1073/pnas.1120893109}
+\end{enumerate}
+
+\cvsection{Full Publication List}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Kellner, C.; Le~Quément, M.\,T.; \textbf{Riener,\,G.} (2022).
+  \emph{Games and Economic Behavior}, 136, 360--378.\\
+\item
+  Dertwinkel‑Kalt, M.~et\,al.~(2021). \emph{Review of Economic Studies},
+  rdab043.\\
+\item
+  Kellner, C.; Reinstein, D.; \textbf{Riener,\,G.} (2019). \emph{Journal
+  of Public Economics}, 169, 109--127.\\
+\item
+  Ibáñez, M.; \textbf{Riener,\,G.} (2017). \emph{Journal of Labor
+  Economics}, 36\,(2), 437--478.\\
+\item
+  Lambarraa, F.; \textbf{Riener,\,G.} (2015). \emph{JEBO}, 118,
+  69--84.\\
+\item
+  Gneezy, A.~et\,al.~(2012). \emph{PNAS}, 109\,(19), 7231--7236.\\
+\item
+  Petrishcheva, V.; \textbf{Riener,\,G.}; Schildberg‑Hörisch, H. (2022).
+  \emph{Experimental Economics}.\\
+\item
+  Wagner, V.; \textbf{Riener,\,G.} (2022). \emph{B.E.~Journal of
+  Economic Analysis and~Policy}.\\
+\item
+  \textbf{Riener,\,G.}; Wagner, V. (2022). \emph{Educational
+  Psychology}, 42\,(2), 222--239.\\
+\item
+  \textbf{Riener,\,G.}; Wagner, V. (2019). \emph{Education Economics},
+  27\,(3), 223--240.\\
+\item
+  \textbf{Riener,\,G.}; Wagner, V. (2017). \emph{Economics of Education
+  Review}, 59, 43--62.\\
+\item
+  Regner, T.; \textbf{Riener,\,G.} (2017). \emph{JEMS}, 26\,(2),
+  318--336.\\
+\item
+  Gaudeul, A.; Crosetto, P.; \textbf{Riener,\,G.} (2017). \emph{Journal
+  of Economic Psychology}, 59, 99--112.\\
+\item
+  \textbf{Riener,\,G.}; Wiederhold, S. (2016). \emph{JEBO}, 123,
+  1--18.\\
+\item
+  Heblich, S.; Lameli, A.; \textbf{Riener,\,G.} (2015). \emph{PLOS~ONE},
+  10\,(2), e0113475.\\
+\item
+  Kellner, C.; \textbf{Riener,\,G.} (2014). \emph{Economics Letters},
+  125\,(1), 134--137.\\
+\item
+  \textbf{Riener,\,G.}; Wiederhold, S. (2013). \emph{Economics Letters},
+  120\,(3), 408--412.\\
+\item
+  \textbf{Riener,\,G.}; Traxler, C. (2012). \emph{Journal of
+  Socio‑Economics}, 41\,(4), 383--390.\\
+\item
+  Hugh‑Jones, D.; Katsanidou, A.; \textbf{Riener,\,G.} (2011).
+  \emph{International Journal of Conflict and Violence}, 5\,(2),
+  325--344.\\
+\item
+  Reinstein, D.; \textbf{Riener,\,G.} (2011). \emph{Experimental
+  Economics}, 15\,(1), 229--240.\\
+\item
+  Reinstein, D.; \textbf{Riener,\,G.} (2011). \emph{Theory and
+  Decision}, 72\,(2), 221--243.\\
+\item
+  \textbf{Riener,\,G.} (2011). \emph{Applied Economics}, 44\,(3),
+  279--288.
+\end{enumerate}
+
+%--------------------------------------------------------------------------------------------------
+%	ARTIFICIAL FOOTER (fancy footer cannot exceed linewidth) 
+%--------------------------------------------------------------------------------------------------
+
+\null
+\vspace*{\fill}
+\hspace{-0.25\linewidth}\colorbox{white}{\makebox[1.5\linewidth][c]{\mystrut  \textnormal{\textcolor{sectcol}{gerhardriener.github.io}  *  \textcolor{sectcol}{github.com/gerhardriener}}}}
+
+\end{document}

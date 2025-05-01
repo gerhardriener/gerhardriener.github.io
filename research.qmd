@@ -1,40 +1,213 @@
 ---
 title: "Research"
+format:
+  html:
+    css: styles.css
 ---
 
-I am mainly working on behavioral and experimental economics. I currently combine lab-experimental methods with large scale field experiments.
+## Research Philosophy
+
+::: {.callout-note appearance="minimal" .philosophy-section}
+My research integrates experimental methods with rigorous field studies to understand human decision-making in economic contexts. I believe that bridging controlled laboratory environments with real-world observations provides the most comprehensive insights into economic behavior.
+
+By combining lab-experimental methods with large-scale field experiments, I seek to address both fundamental theoretical questions and practical policy challenges. This dual approach allows me to test economic theories with high internal validity while ensuring that findings have external validity and real-world applicability.
+:::
+
+## Research Themes
+
+::: {.grid}
+
+::: {.g-col-4 .theme}
+::: {.card}
+### 📈 Experimental Economics
+
+Developing and applying experimental methods to test economic theories and understand behavioral patterns in controlled settings.
+
+- Laboratory experiments
+- Field experiments
+- Online experiments
+- Methodological innovations
+:::
+:::
+
+::: {.g-col-4 .theme}
+::: {.card}
+### 🏢 Labor Economics
+
+Investigating incentives, motivations, and structural factors that shape labor market outcomes and workplace behavior.
+
+- Performance appraisals
+- Affirmative action
+- Gender and leadership
+- Procedural preferences
+:::
+:::
+
+::: {.g-col-4 .theme}
+::: {.card}
+### ❤️ Charitable Giving
+
+Examining the psychological, social, and economic factors that influence philanthropic behavior and charitable donations.
+
+- Religious norms in giving
+- High-net-worth donor behavior
+- Substitution between charities
+- Household bargaining over giving
+:::
+:::
+
+:::
+
+## Current Projects
+
+::: {.grid}
+
+::: {.g-col-12 .project}
+::: {.card}
+### Narratives to Sustainable Agriculture: Evidence from Madagascar's Vanilla Farmers
+
+::: {.badges}
+[Funded by Volkswagen Foundation]{.badge .bg-primary}
+[2023-2026]{.badge .bg-info}
+[With Marcela Ibanez and Viviana Uruena]{.badge .bg-secondary}
+:::
+
+This project examines how narratives can influence sustainable farming practices among vanilla farmers in Madagascar. Through a series of field experiments, we test the effectiveness of different messaging strategies in promoting environmentally sustainable agricultural methods.
+
+::: {.completion}
+**Completion: 40%**
+:::
+:::
+:::
+
+::: {.g-col-6 .project}
+::: {.card}
+### Substitution between Charities
+
+::: {.badges}
+[With David Reinstein (Maastricht)]{.badge .bg-secondary}
+:::
+
+Evidence from several experiments on how people substitute between charities and whether multiple charitable appeals create crowding in or crowding out of charitable contributions.
+
+::: {.completion}
+**Completion: 75%**
+:::
+:::
+:::
+
+::: {.g-col-6 .project}
+::: {.card}
+### Behavioral Insights into Pension Savings
+
+::: {.badges}
+[With Marcela Ibanez and Sebastian Schneider]{.badge .bg-secondary}
+:::
+
+Surveys and lab-in-the-field experiments in Bogota, Colombia, exploring financial decision-making, well-being, and cognitive ability across 1200 subjects. 600 participants also completed experiments on higher-order risk preferences.
+
+::: {.completion}
+**Completion: 60%**
+:::
+:::
+:::
+
+::: {.g-col-12 .project}
+::: {.card}
+### Household Bargaining over Prosocial Decisions: Evidence from Egypt
+
+::: {.badges}
+[With Marcela Ibanez and Ghida Karbala]{.badge .bg-secondary}
+:::
+
+Representative sample of Cairo population of married women. 600 observations of household survey data and bargaining experiments over charitable donations.
+
+::: {.completion}
+**Completion: 85%**
+:::
+:::
+:::
+
+:::
+
+## Research Timeline
+
+::: {.timeline}
+
+::: {.timeline-item}
+#### 2025 {.timeline-date}
+
+**Affective Polarization Research**
+
+Completed major study on how economic factors influence political polarization.
+:::
+
+::: {.timeline-item}
+#### 2023-2024 {.timeline-date}
+
+**Field Experiments in Public Sector**
+
+Conducted research on performance appraisals and moral costs of control.
+:::
+
+::: {.timeline-item}
+#### 2021-2022 {.timeline-date}
+
+**Gender and Leadership Studies**
+
+Field experiments in matrilineal and patriarchic societies in India.
+:::
+
+::: {.timeline-item}
+#### 2019-2020 {.timeline-date}
+
+**Concentration Bias Research**
+
+Published findings on intertemporal choice and concentration bias in the Review of Economic Studies.
+:::
+
+::: {.timeline-item}
+#### 2014-2015 {.timeline-date}
+
+**Charitable Giving in Islamic Contexts**
+
+Field experiments in Morocco examining religious norms in charitable giving.
+:::
+
+::: {.timeline-item}
+#### 2010-2013 {.timeline-date}
+
+**Desert and Tangibility Effects**
+
+Experimental research on decomposing effects in charitable giving.
+:::
+
+:::
 
 ## Working Papers
 
-
-
+::: {.papers}
 - *Until the debt will tear us apart: the rise of affective polarisation"* with Roula Nezi (Surrey), Ann-Kathrin Reinl (Munich), and Alexia Katsanidou (Cologne)
 
-- *Procedural Preferences in Competitive Environments: 	Lab-in-the-Field Evidence from Madagascar* with Marcela Ibanez and Viviana Uruena
+- *Procedural Preferences in Competitive Environments: Lab-in-the-Field Evidence from Madagascar* with Marcela Ibanez and Viviana Uruena
 
-- *Addressing Validity and Generalizability Concerns in Field Experiments* with Sebastian Schneider (MPI Bonn) and Valentin Wagner,  [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3637868)
+- *Addressing Validity and Generalizability Concerns in Field Experiments* with Sebastian Schneider (MPI Bonn) and Valentin Wagner, [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3637868)
 
 - *Hidden moral costs of control: Field evidence from performance appraisals in the public sector* with Marcela Ibanez, Jan Priebe and Dewi Susanti, under review
 
 - *Affirmative action and application strategies* with Ritwik Banerjee, Marcela Ibanez and Soham Sahoo
 
 - *Gender and Leadership: Experiments in Matrilineal and Patriarchic Societies in India* with Debosree Banerjee, Marcela Ibanez and Meike Wollni
-
+:::
 
 ## Work in progress
 
+::: {.papers}
 - *Narratives to Sustainable Agriculture*: Evidence from Madagascars Vanilla Farmers with Marcela Ibanez and Viviana Uruena. Funded by Volkswagenfoundation
 
 - *Substitution between Charities* Evidence from several experiments on how people substitute between charities and whether multiple charitable appeals create crowding in or crowding out of charitable contributions. With David Reinstein (Maastricht)
 
-- *Behavioral Insights into Pension Savings*: Surveys and Lab-in-the-field experiments in Bogota, Colombia. Survey on financial issues, well-being
-and cognitive ability (1200 subjects). Matched with 600 answers from a lab-in-the-field experiment on higher order risk preferences. Joint with
-Marcela Ibanez (Gottingen) and Sebastian Schneider (MPI Bonn).
+- *Behavioral Insights into Pension Savings*: Surveys and Lab-in-the-field experiments in Bogota, Colombia. Survey on financial issues, well-being and cognitive ability (1200 subjects). Matched with 600 answers from a lab-in-the-field experiment on higher order risk preferences. Joint with Marcela Ibanez (Gottingen) and Sebastian Schneider (MPI Bonn).
 
-- *Household Bargaining over Prosocial Decisions: Evidence from Egypt.*
-Representative sample of Cairo population of married women. 600 observations of household survey data and bargaining experiments over
-charitable donations. Joint with Marcela Ibanez and Ghida Karbala.
-
-
-
-
+- *Household Bargaining over Prosocial Decisions: Evidence from Egypt.* Representative sample of Cairo population of married women. 600 observations of household survey data and bargaining experiments over charitable donations. Joint with Marcela Ibanez and Ghida Karbala.
+:::

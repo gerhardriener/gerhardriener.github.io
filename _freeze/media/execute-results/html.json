@@ -1,0 +1,15 @@
+{
+  "hash": "7cf58f8596d61a4458533ff197e4ff41",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Media & Impact\"\n---\n\n## Media Coverage\n\nMy research on experimental economics and charitable giving has been featured in various media outlets and has contributed to policy discussions. Below are selected media highlights:\n\n### Featured Press Coverage\n\n- **The Economist** - \"*Behavioral Economics in Public Policy*\" (February 2025)\n  A discussion on how behavioral economics insights can improve policy implementation.\n\n- **Financial Times** - \"*New Research on Charitable Giving Patterns*\" (November 2024)\n  Coverage of our research on factors influencing high-net-worth donor decisions.\n\n- **BBC Radio 4** - \"*The Psychology of Giving*\" (September 2024)\n  Interview on research findings about motivational factors in charitable donation behavior.\n\n### Public Policy Impact\n\nMy research has informed several policy initiatives:\n\n- **UK Treasury Behavioral Insights Team** - Contributed research on tax incentives for charitable giving (2023-2025)\n- **European Commission Report** - Expert input on \"Philanthropic Capital and Social Innovation\" (2024)\n- **OECD Working Group** - Advisory role on behavioral economics applications in development aid (2022-present)\n\n## Public Engagement\n\n### Public Lectures\n\n- \"Economics in the Real World\" - Southampton Science Festival, March 2025\n- \"The Future of Charitable Giving\" - London School of Economics Public Lecture Series, October 2024\n- \"Behavioral Economics and Decision-Making\" - TED Talk, June 2024\n\n### Blog Posts & Articles\n\n- [\"The Unexpected Economics of Generosity\"](https://example.com) - Medium, April 2025\n- [\"Field Experiments: Taking Economics Out of the Lab\"](https://example.com) - VoxEU, January 2025\n- [\"Why We Give: The Science Behind Charitable Donations\"](https://example.com) - The Conversation, November 2024\n\n## Impact Metrics\n\n\n::: {.cell}\n\n:::\n\n\n- **Research Citations**: 1,200+ (Google Scholar)\n- **Media Mentions**: 45+ international news articles\n- **Policy Documents**: Referenced in 12 government white papers\n- **Public Engagement**: Reached an audience of 50,000+ through public lectures and media appearances\n\n## Connect for Media Inquiries\n\nFor media inquiries or interview requests, please contact me at [g.riener@soton.ac.uk](mailto:g.riener@soton.ac.uk).",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

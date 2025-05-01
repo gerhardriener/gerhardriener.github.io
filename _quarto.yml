@@ -3,7 +3,10 @@ project:
 
 website:
   title: "Gerhard Riener"
+  favicon: "favicon.ico"
   navbar:
+    background: "#0D3B66"
+    foreground: "#FFFFFF"
     left:
       - href: index.qmd
         text: Home
@@ -15,11 +18,25 @@ website:
         text: Teaching
       - href: data.qmd
         text: Data
+      - href: media.qmd
+        text: Media & Impact
+      - href: events.qmd
+        text: Events & Presentations
+      - href: cv.qmd
+        text: CV
       - href: about.qmd
         text: About
-    right: 
+    right:
       - href: imprint.qmd
         text: Imprint
+  page-footer:
+    background: "#0D3B66"
+    foreground: "#FFFFFF"
+    left: |
+      &copy; 2025 Gerhard Riener, University of Southampton
+    right: |
+      Made with [Quarto](https://quarto.org/)
+
 execute:
   freeze: true
     
@@ -28,7 +45,28 @@ format:
     theme: lumen
     css: styles.css
     toc: true
-
-
-
-
+    toc-location: right
+    toc-title: "On this page"
+    code-copy: true
+    code-tools: true
+    highlight-style: github
+    anchor-sections: true
+    citations-hover: true
+    footnotes-hover: true
+    smooth-scroll: true
+    mainfont: "Source Sans Pro"
+    headingfont: "Merriweather"
+    title-block-banner: "#E1F0FF"
+    title-block-banner-color: "#0D3B66"
+    link-external-icon: true
+    link-external-newwindow: true
+    fontsize: 1rem
+    linestretch: 1.6
+    include-in-header:
+      - text: |
+          <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+          <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    include-after-body:
+      - text: |
+          <script src="js/data-visualization.js"></script>
+          <script src="js/site-optimizations.js"></script>
