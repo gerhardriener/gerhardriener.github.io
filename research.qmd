@@ -69,7 +69,7 @@ Examining the psychological, social, and economic factors that influence philant
 ::: {.badges}
 [Funded by Volkswagen Foundation]{.badge .bg-primary}
 [2023-2026]{.badge .bg-info}
-[With Marcela Ibanez and Viviana Uruena]{.badge .bg-secondary}
+[With Marcela Ibanez (Göttingen) and Viviana Uruena]{.badge .bg-secondary}
 :::
 
 This project examines how narratives can influence sustainable farming practices among vanilla farmers in Madagascar. Through a series of field experiments, we test the effectiveness of different messaging strategies in promoting environmentally sustainable agricultural methods.
@@ -101,29 +101,13 @@ Evidence from several experiments on how people substitute between charities and
 ### Behavioral Insights into Pension Savings
 
 ::: {.badges}
-[With Marcela Ibanez and Sebastian Schneider]{.badge .bg-secondary}
+[With Marcela Ibanez (Göttingen) and Sebastian Schneider (MPI Bonn)]{.badge .bg-secondary}
 :::
 
 Surveys and lab-in-the-field experiments in Bogota, Colombia, exploring financial decision-making, well-being, and cognitive ability across 1200 subjects. 600 participants also completed experiments on higher-order risk preferences.
 
 ::: {.completion}
 **Completion: 60%**
-:::
-:::
-:::
-
-::: {.g-col-12 .project}
-::: {.card}
-### Household Bargaining over Prosocial Decisions: Evidence from Egypt
-
-::: {.badges}
-[With Marcela Ibanez and Ghida Karbala]{.badge .bg-secondary}
-:::
-
-Representative sample of Cairo population of married women. 600 observations of household survey data and bargaining experiments over charitable donations.
-
-::: {.completion}
-**Completion: 85%**
 :::
 :::
 :::
@@ -139,7 +123,7 @@ Representative sample of Cairo population of married women. 600 observations of 
 
 **Affective Polarization Research**
 
-Completed major study on how economic factors influence political polarization.
+In progress: Major study on how economic factors influence political polarization.
 :::
 
 ::: {.timeline-item}
@@ -187,27 +171,21 @@ Experimental research on decomposing effects in charitable giving.
 ## Working Papers
 
 ::: {.papers}
-- *Until the debt will tear us apart: the rise of affective polarisation"* with Roula Nezi (Surrey), Ann-Kathrin Reinl (Munich), and Alexia Katsanidou (Cologne)
+- *Reacting to ambiguous messages* with Christian Kellner and Mark LeQuement (accepted at Games and Economic Behavior)
 
-- *Procedural Preferences in Competitive Environments: Lab-in-the-Field Evidence from Madagascar* with Marcela Ibanez and Viviana Uruena
+- *Loss Aversion in Social Image Concerns* with Petrishcheva and Schildberg-Hörisch (accepted in Experimental Economics)
+
+- *Household Bargaining over Prosocial Decisions: Evidence from Egypt* with Marcela Ibanez (Göttingen) and Ghida Karbala
+
+- *Until the debt will tear us apart: the rise of affective polarisation* with Roula Nezi (Surrey), Ann-Kathrin Reinl (Munich), and Alexia Katsanidou (Cologne)
+
+- *Procedural Preferences in Competitive Environments: Lab-in-the-Field Evidence from Madagascar* with Marcela Ibanez (Göttingen) and Viviana Uruena
 
 - *Addressing Validity and Generalizability Concerns in Field Experiments* with Sebastian Schneider (MPI Bonn) and Valentin Wagner, [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3637868)
 
-- *Hidden moral costs of control: Field evidence from performance appraisals in the public sector* with Marcela Ibanez, Jan Priebe and Dewi Susanti, under review
+- *Hidden moral costs of control: Field evidence from performance appraisals in the public sector* with Marcela Ibanez (Göttingen), Jan Priebe and Dewi Susanti, under review
 
-- *Affirmative action and application strategies* with Ritwik Banerjee, Marcela Ibanez and Soham Sahoo
+- *Affirmative action and application strategies* with Ritwik Banerjee, Marcela Ibanez (Göttingen) and Soham Sahoo
 
-- *Gender and Leadership: Experiments in Matrilineal and Patriarchic Societies in India* with Debosree Banerjee, Marcela Ibanez and Meike Wollni
-:::
-
-## Work in progress
-
-::: {.papers}
-- *Narratives to Sustainable Agriculture*: Evidence from Madagascars Vanilla Farmers with Marcela Ibanez and Viviana Uruena. Funded by Volkswagenfoundation
-
-- *Substitution between Charities* Evidence from several experiments on how people substitute between charities and whether multiple charitable appeals create crowding in or crowding out of charitable contributions. With David Reinstein (Maastricht)
-
-- *Behavioral Insights into Pension Savings*: Surveys and Lab-in-the-field experiments in Bogota, Colombia. Survey on financial issues, well-being and cognitive ability (1200 subjects). Matched with 600 answers from a lab-in-the-field experiment on higher order risk preferences. Joint with Marcela Ibanez (Gottingen) and Sebastian Schneider (MPI Bonn).
-
-- *Household Bargaining over Prosocial Decisions: Evidence from Egypt.* Representative sample of Cairo population of married women. 600 observations of household survey data and bargaining experiments over charitable donations. Joint with Marcela Ibanez and Ghida Karbala.
+- *Gender and Leadership: Experiments in Matrilineal and Patriarchic Societies in India* with Debosree Banerjee, Marcela Ibanez (Göttingen) and Meike Wollni
 :::
