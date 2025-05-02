@@ -25,8 +25,11 @@ University of Southampton, United Kingdom
 Head of Research Group "Economic Theory and Experimental Economics"  
 Head of Knowledge Exchange and Enterprise
 
-**Senior Research Fellow**, Mar. 2022 - Present  
+**Senior Research Fellow**, Mar. 2022 - Present
 Institute for Advanced Studies, Vienna, Austria
+
+**IZA Research Fellow**, Jan. 2024 - Present
+Institute of Labor Economics (IZA), Bonn, Germany
 
 **Researcher (on leave)**, May 2022 - Present  
 Düsseldorf Institute for Competition Economics, Heinrich‑Heine‑University Düsseldorf, Germany
@@ -138,49 +141,49 @@ Linz, Austria
 
 ### Full Publication List
 
-1. Kellner, C., Le Quément, M.T., & Riener, G. (2022). *Games and Economic Behavior*, 136, 360-378.
+1. Kellner, C., Le Quément, M.T., & Riener, G. (2022). Reacting to ambiguous messages: An experimental analysis. *Games and Economic Behavior*, 136, 360-378.
 
-2. Dertwinkel‑Kalt, M. et al. (2021). *Review of Economic Studies*, rdab043.
+2. Dertwinkel‑Kalt, M., Gerhardt, H., Riener, G., Schwerter, F., & Strang, L. (2021). Concentration Bias in Intertemporal Choice. *Review of Economic Studies*, rdab043.
 
-3. Kellner, C., Reinstein, D., & Riener, G. (2019). *Journal of Public Economics*, 169, 109-127.
+3. Kellner, C., Reinstein, D., & Riener, G. (2019). Ex-ante commitments to "give if you win" exceed donations after a win. *Journal of Public Economics*, 169, 109-127.
 
-4. Ibáñez, M., & Riener, G. (2017). *Journal of Labor Economics*, 36(2), 437-478.
+4. Ibáñez, M., & Riener, G. (2017). Sorting through Affirmative Action: Three Field Experiments in Colombia. *Journal of Labor Economics*, 36(2), 437-478.
 
-5. Lambarraa, F., & Riener, G. (2015). *JEBO*, 118, 69-84.
+5. Lambarraa, F., & Riener, G. (2015). On the norms of charitable giving in Islam: Two field experiments in Morocco. *Journal of Economic Behavior & Organization*, 118, 69-84.
 
-6. Gneezy, A. et al. (2012). *PNAS*, 109(19), 7231-7236.
+6. Gneezy, A., Gneezy, U., Riener, G., & Nelson, L.D. (2012). Pay-what-you-want, identity, and self-signaling in markets. *Proceedings of the National Academy of Sciences*, 109(19), 7231-7236.
 
-7. Petrishcheva, V., Riener, G., & Schildberg‑Hörisch, H. (2022). *Experimental Economics*.
+7. Petrishcheva, V., Riener, G., & Schildberg‑Hörisch, H. (2022). Title not available in references.bib. *Experimental Economics*.
 
-8. Wagner, V., & Riener, G. (2022). *B.E. Journal of Economic Analysis and Policy*.
+8. Wagner, V., & Riener, G. (2022). Motivation in a Reciprocal Task: Interaction Effects of Task Meaning, Goal Salience, and Time Pressure. *B.E. Journal of Economic Analysis & Policy*.
 
-9. Riener, G., & Wagner, V. (2022). *Educational Psychology*, 42(2), 222-239.
+9. Riener, G., & Wagner, V. (2022). Title not available in references.bib. *Educational Psychology*, 42(2), 222-239.
 
-10. Riener, G., & Wagner, V. (2019). *Education Economics*, 27(3), 223-240.
+10. Riener, G., & Wagner, V. (2019). Title not available in references.bib. *Education Economics*, 27(3), 223-240.
 
-11. Riener, G., & Wagner, V. (2017). *Economics of Education Review*, 59, 43-62.
+11. Riener, G., & Wagner, V. (2017). Shying away from demanding tasks? Experimental evidence on gender differences in answering multiple-choice questions. *Economics of Education Review*, 59, 43-62.
 
-12. Regner, T., & Riener, G. (2017). *JEMS*, 26(2), 318-336.
+12. Regner, T., & Riener, G. (2017). Privacy Is Precious: On the Attempt to Lift Anonymity on the Internet to Increase Revenue. *Journal of Economics & Management Strategy*, 26(2), 318-336.
 
-13. Gaudeul, A., Crosetto, P., & Riener, G. (2017). *Journal of Economic Psychology*, 59, 99-112.
+13. Gaudeul, A., Crosetto, P., & Riener, G. (2017). Better stuck together or free to go? Of the stability of cooperation when individuals have outside options. *Journal of Economic Psychology*, 59, 99-112.
 
-14. Riener, G., & Wiederhold, S. (2016). *JEBO*, 123, 1-18.
+14. Riener, G., & Wiederhold, S. (2016). Team building and hidden costs of control. *Journal of Economic Behavior & Organization*, 123, 1-18.
 
-15. Heblich, S., Lameli, A., & Riener, G. (2015). *PLOS ONE*, 10(2), e0113475.
+15. Heblich, S., Lameli, A., & Riener, G. (2015). The effect of perceived regional accents on individual economic behavior: a lab experiment on linguistic performance, cognitive ratings and economic decisions. *PLOS ONE*, 10(2), e0113475.
 
-16. Kellner, C., & Riener, G. (2014). *Economics Letters*, 125(1), 134-137.
+16. Kellner, C., & Riener, G. (2014). The effect of ambiguity aversion on reward scheme choice. *Economics Letters*, 125(1), 134-137.
 
-17. Riener, G., & Wiederhold, S. (2013). *Economics Letters*, 120(3), 408-412.
+17. Riener, G., & Wiederhold, S. (2013). Heterogeneous treatment effects in groups. *Economics Letters*, 120(3), 408-412.
 
-18. Riener, G., & Traxler, C. (2012). *Journal of Socio‑Economics*, 41(4), 383-390.
+18. Riener, G., & Traxler, C. (2012). Norms, moods, and free lunch: Longitudinal evidence on payments from a Pay-What-You-Want restaurant. *Journal of Socio‑Economics*, 41(4), 383-390.
 
-19. Hugh‑Jones, D., Katsanidou, A., & Riener, G. (2011). *International Journal of Conflict and Violence*, 5(2), 325-344.
+19. Hugh‑Jones, D., Katsanidou, A., & Riener, G. (2011). Intergroup Conflict and the Media: An Experimental Study of Greek Students after the 2008 Riots. *International Journal of Conflict and Violence*, 5(2), 325-344.
 
-20. Reinstein, D., & Riener, G. (2011). *Experimental Economics*, 15(1), 229-240.
+20. Reinstein, D., & Riener, G. (2011). Decomposing desert and tangibility effects in a charitable giving experiment. *Experimental Economics*, 15(1), 229-240.
 
-21. Reinstein, D., & Riener, G. (2011). *Theory and Decision*, 72(2), 221-243.
+21. Reinstein, D., & Riener, G. (2011). Reputation and influence in charitable giving: an experiment. *Theory and Decision*, 72(2), 221-243.
 
-22. Riener, G. (2011). *Applied Economics*, 44(3), 279-288.
+22. Riener, G. (2011). Inequality and mobility of household incomes in Europe: evidence from the ECHP. *Applied Economics*, 44(3), 279-288.
 
 ## Research Grants and Honors
 
