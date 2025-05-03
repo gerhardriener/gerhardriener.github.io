@@ -1,31 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://gerhardriener.github.io/teaching.html</loc>
-    <lastmod>2025-02-11T21:49:47.108Z</lastmod>
+    <loc>https://gerhardriener.github.io/cv.html</loc>
+    <lastmod>2025-05-01T15:37:30.221Z</lastmod>
   </url>
   <url>
-    <loc>https://gerhardriener.github.io/publications.html</loc>
-    <lastmod>2023-02-18T19:20:24.233Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gerhardriener.github.io/imprint.html</loc>
-    <lastmod>2023-03-01T18:54:27.000Z</lastmod>
+    <loc>https://gerhardriener.github.io/media.html</loc>
+    <lastmod>2025-05-01T18:34:14.760Z</lastmod>
   </url>
   <url>
     <loc>https://gerhardriener.github.io/about.html</loc>
     <lastmod>2023-11-27T10:11:27.000Z</lastmod>
   </url>
   <url>
-    <loc>https://gerhardriener.github.io/data.html</loc>
-    <lastmod>2023-02-18T19:20:24.231Z</lastmod>
+    <loc>https://gerhardriener.github.io/imprint.html</loc>
+    <lastmod>2023-03-01T18:54:27.000Z</lastmod>
   </url>
   <url>
-    <loc>https://gerhardriener.github.io/index.html</loc>
-    <lastmod>2023-11-27T10:10:54.000Z</lastmod>
+    <loc>https://gerhardriener.github.io/teaching.html</loc>
+    <lastmod>2025-02-11T21:49:47.000Z</lastmod>
   </url>
   <url>
     <loc>https://gerhardriener.github.io/research.html</loc>
-    <lastmod>2023-02-18T19:20:24.236Z</lastmod>
+    <lastmod>2025-05-03T06:12:40.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gerhardriener.github.io/index.html</loc>
+    <lastmod>2025-05-03T06:12:40.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gerhardriener.github.io/publications.html</loc>
+    <lastmod>2025-05-03T06:12:40.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gerhardriener.github.io/data.html</loc>
+    <lastmod>2025-05-03T06:18:12.448Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gerhardriener.github.io/events.html</loc>
+    <lastmod>2025-05-01T18:28:07.128Z</lastmod>
   </url>
 </urlset>
