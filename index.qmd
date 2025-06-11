@@ -62,16 +62,6 @@ Through two field experiments in Morocco, we examine how religious norms affect 
 :::
 :::
 
-::: {.g-col-6}
-::: {.card}
-### Affective Polarization: Experimental Evidence
-*Working Paper (2025)*
-
-Our research investigates how economic factors contribute to political polarization, with experimental evidence showing how debt-related narratives affect partisan attitudes.
-
-[View Details](research.qmd)
-:::
-:::
 
 ::: {.g-col-6}
 ::: {.card}
